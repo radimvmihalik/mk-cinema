@@ -1,0 +1,17 @@
+{
+  "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu.",
+  "picks": [
+    {
+      "title": "Halloween",
+      "color": "FFFF9800",
+      "home": true,
+      "items": [
+        {"title": "Halloweenské filmy", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
+        {"title": "Pro celou rodinu", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "with_genres": "10751|16", "vote_count.gte": 30}},
+        {"title": "Horory", "type": "discover", "media": "movie", "query": {"with_genres": 27, "vote_count.gte": 1000}},
+        {"title": "Strašidelné seriály", "type": "discover", "media": "tv", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
+        {"title": "Halloweenské díly seriálů", "type": "episodes", "file": "epizody/halloween.json"}
+      ]
+    }
+  ]
+}

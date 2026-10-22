@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<!-- The id stays plugin.video.wskino so existing installs update in place and keep their login and history -->
+<addon id="plugin.video.wskino" name="MK Cinema" version="1.6.0" provider-name="Midar Kilahim">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.22.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="cs_CZ">Midar Kilahim Cinema – knihovna filmů a seriálů přehrávaná přes tvůj účet Webshare.cz</summary>
+        <summary lang="en_GB">Midar Kilahim Cinema – movie and TV library played through your Webshare.cz account</summary>
+        <description lang="cs_CZ">Procházej filmy a seriály (populární, nově online, žánry, české filmy, Halloween, hledání) s plakáty a popisy z TMDB. Po výběru filmu nebo dílu doplněk najde odpovídající soubory na Webshare, seřadí je podle jazyka a kvality a přehraje je přes tvůj vlastní účet. Každý se přihlašuje svým účtem Webshare.</description>
+        <description lang="en_GB">Browse movies and TV shows with artwork and plots from TMDB. Picking a title finds matching files on Webshare.cz, ranks them by language and quality and plays them through your own account.</description>
+        <platform>all</platform>
+        <license>MIT</license>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+<addon id="repository.mkcinema" name="MK Cinema repozitář" version="1.0.0" provider-name="Midar Kilahim">
+    <extension point="xbmc.addon.repository" name="MK Cinema repozitář">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/radimvmihalik/mk-cinema/main/repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/radimvmihalik/mk-cinema/main/repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/radimvmihalik/mk-cinema/main/repo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="cs_CZ">Automatické aktualizace doplňku MK Cinema</summary>
+        <summary lang="en_GB">Automatic updates for the MK Cinema add-on</summary>
+        <description lang="cs_CZ">Po instalaci si Kodi samo stahuje nové verze doplňku MK Cinema z GitHubu (radimvmihalik/mk-cinema).</description>
+        <description lang="en_GB">Kodi keeps MK Cinema up to date from GitHub (radimvmihalik/mk-cinema).</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.png</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>

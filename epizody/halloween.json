@@ -1,0 +1,1730 @@
+[
+ {
+  "id": 456,
+  "title": "Simpsonovi",
+  "otitle": "The Simpsons",
+  "poster": "/poTtFCp1LjEl187NuqD6ekFplb6.jpg",
+  "fanart": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 3,
+    "name": "Zvlášť strašidelní Simpsonovi",
+    "name_en": "Treehouse of Horror",
+    "plot": "Je Halloween a Bárt a Líza se snaží navzájem vystrašit hororovými příběhy. Začíná Líza a vypráví příběh, v němž Simpsonovi bydlí v domě, co má duši, a snaží se je přimět se navzájem pozabíjet. V Bártově příběhu jsou Simpsonovi uneseni mimozemšťany. Nakonec Líza Bártovi přečte Havrana od E.A. Poea.",
+    "still": "/fn3vVIu3jQoygMdcZBomUQJg8pF.jpg",
+    "aired": "1990-10-25"
+   },
+   {
+    "season": 3,
+    "episode": 7,
+    "name": "Zvláštní čarodějnický díl",
+    "name_en": "Treehouse of Horror II",
+    "plot": "Je Halloween a nikdo nedbá Margina varování, že se jim po spoustě sladkostí budou zdát zlé sny. Líze se zdá, že Homer koupil tajemnou opičí pracku, která majiteli splní 4 přání. Bárt má ve svém snu nadpřirozené schopnosti. Homerovi se zdá, že pan Burns stvořil umělého člověka.",
+    "still": "/klBe5i91jzT69vdOjsUWpzSdQBu.jpg",
+    "aired": "1991-10-31"
+   },
+   {
+    "season": 4,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror III",
+    "plot": "Je Halloween a Simpsonovi pořádají dětský večírek. Samozřejmě se na něm vypráví strašidelné historky. V Lisině příběhu Nelítostný klaun chce Homera zabít figurka šáši Krustyho. Potom vypráví děda příbeh King Homer, což je King Kong v hlavní roli s Homerem. V posledním příběhu Vytočte Z jako záhrobníci Bart omylem oživí springfieldské záhrobníky.",
+    "still": "/lEojftT4NydQtBbDBEzNifIt2LQ.jpg",
+    "aired": "1992-10-29"
+   },
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl IV – Dům plný hrůzy",
+    "name_en": "Treehouse of Horror IV",
+    "plot": "A je tu opět Halloween. V prvním příběhu Ďábel a Homer Simpson zaprodá Homer duši ďáblu, kterého předtavuje Ned... V druhém příběhu Hrůza ve výši pěti a půl stopy Barta pronásledují gremlini, kteří ho chtějí zabít cestou do školy v autobuse. V posledním příběhu Dracula Barta Simpsona je pan Burns upírem...",
+    "still": "/7G1KjBt1yvhUzwHFZNsKET3exea.jpg",
+    "aired": "1993-10-28"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "Dům plný hrůzy",
+    "name_en": "Treehouse of Horror V",
+    "plot": "Další z čarodějnických dílů. V prvním příběhu tráví Simpsonovi víkend na Burnsově sídle. Není tam ale žádná televize ani pivo, což v Homerovi vzbudí potřebu zabíjet...\n\nV druhém příběhu Homer opraví toaster, z kterého se ale stane stroj času. Homer se tak ocitá mezi dinosaury, ale pokaždé zabije nějakého tvora, čímž změní realitu.\n\nVe třetím příběhu se ve školní jídelně začnou podávat pokrmy připravené z žáků. Naštěstí se to Bartovi jenom zdá - ve skutečnosti se po městě šíří plyn, který obrací lidi naruby.",
+    "still": "/x7nae0xArRHmVaufd8dzNGuAIHl.jpg",
+    "aired": "1994-10-30"
+   },
+   {
+    "season": 7,
+    "episode": 6,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror VI",
+    "plot": "Další strašidelný díl odkazuje na filmy Poltergeist a Terminátor 2. V Útoku pětadvacetimetrových ohyzdností ohrožují Springfield oživlé reklamy. Školník Willie v Můře z Evergreen Street po smrti straší springfieldské děti a v Homer^3 je Homer trojrozměrný...",
+    "still": "/o6v9bqo6XQqv3pQPhmcUH8byDAn.jpg",
+    "aired": "1995-10-29"
+   },
+   {
+    "season": 8,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror VII",
+    "plot": "Další z čarodějnických dílů. V příběhu Věc a já vyjde najevo, že Bart má zlé siamské dvojče Huga. V Misce stvoření Lisa založí civilizaci v misce s kolou, do které vhodila zub. Kang a Kodos se v Občanovi Kangovi pokusí obsadit Zemi, když se přemění na prezidentské kandidáty Clintona a Dolea.",
+    "still": "/mL04FwIjuP8X7uBLtUi01zhoxyY.jpg",
+    "aired": "1996-10-27"
+   },
+   {
+    "season": 9,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror VIII",
+    "plot": "Halloween je zpátky. V prvním příběhu Homer a mutanti na Springfield spadne atomová bomba, všichni kromě Simpsonových zahynou nebo se změní v mutanty... V příběhu Moucha vs. moucha se Bart změní v transportéru hmotných částic na mouchu. Poslední příběh Jak si upéct čarodějnici je o tom, jak čarodějnice Marge založila tradici halloweenského koledování.",
+    "still": "/tHwFPX4nFbB54tFNsKkcSChmF5E.jpg",
+    "aired": "1997-10-26"
+   },
+   {
+    "season": 10,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror IX",
+    "plot": "Další halloweenský díl. V prvním příběhu Pekelné tupé dostane Homer při transplantaci Haďákovy vlasy, ten slíbil pomstu všem, kteří ho pomohli usvědčit, a tak se je vlasy skrze Homera pokusí slib splnit...\n\nV příběhu Strašliví animáci se Bart s Lisou dostanou do seriálu Itchy a Scratchy, ti se je ale pokusí zabít...\n\nVe Hvězdné srábotě zjistíme, že pravým otcem Maggie je Kang...",
+    "still": "/dwicl3ahKPqKdyXvvpJav3fgPb7.jpg",
+    "aired": "1998-10-25"
+   },
+   {
+    "season": 11,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror X",
+    "plot": "Opět halloweenský díl. V prvním příběhu Vím, co jste dudly-hudly provedli srazí Marge na silnici Neda, Homer zinscenuje nehodu, při které Ned \"umře\" před očima Maude. Potom je ale začne někdo pronásledovat...",
+    "still": "/k4azXLZCuz4SqfqHO5yZ5S0MAS.jpg",
+    "aired": "1999-10-31"
+   },
+   {
+    "season": 12,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XI",
+    "plot": "V prvním přáběhu Tátův duch si Homer v horoskopu přečte, že tento den umře. To ale není to nejhorší - aby se dostal do nebe, musí jako duch udělat jeden dobrý skutek. Lisa a Bart v příběhu Z pohádky do pohádky skutečně projdou několika pohádkami. V posledním příběhu Noc delfínů se delfíni pokusí převzít moc na zemí.",
+    "still": "/w5WbT0dzggTabsPM9fTqzxvJIQA.jpg",
+    "aired": "2000-11-01"
+   },
+   {
+    "season": 13,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XII",
+    "plot": "Další halloweenská epizoda je tady. Ve Válce s vědmou Homera i jeho rodinu prokleje vědma a Homer se kletby pokusí zbavit pomocí leprikona. V druhém příběhu Dům na zabití se nový automatizovaný dům zamiluje do Marge a pokusí se zabít Homera. Příběh Divotvorné děti se odehrává v Pihovicích, čarodějnické škole, kam chodí Lisa s Bartem. Zlý Montymort (pan Burns), se pokusí získat Lisinu čarovnou moc...",
+    "still": "/9RELyTRHODqvYEWPjaZ35YO3zVp.jpg",
+    "aired": "2001-11-06"
+   },
+   {
+    "season": 14,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XIII",
+    "plot": "Pošlete klony\n\nHomer si za pomoci houpací sítě vytvoří svého klona. Ten klon si vytvoří svého klona a vzniknou stovky a stovky klonů, které začnou plnit Springfield.\n\nPrávo mít a nosit zbraň\n\nZombie mrtvých pistolníků povstanou z mrtvých.\n\nOstrov doktora Dlahy\n\nSimpsonovi navštíví ostrov doktora Dlahy, kde se lidé mění ve zvířata.",
+    "still": "/shHP5cjpOrQkz5FZfzwkrxmjGDo.jpg",
+    "aired": "2002-11-03"
+   },
+   {
+    "season": 15,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XIV",
+    "plot": "V prvním příběhu Smrt si říká Homerzabije Homer Smrt a musí převzít její úlohu, což zpočátku vypadá na dobrou zábavu. Ve Frinkensteinovi oživý prof. Frink svého otce, ale ten začne zabíjet lidi a brát si části jejich těl místo svých. Nakonec si Bart s Milhousem v příběhu Zastavte svět, chci se pobavit užívají skvělého objevu: stopek, které dovedou zastavit čas.",
+    "still": "/4XAfPywguzhK2voqI9Nu6K5hIRH.jpg",
+    "aired": "2003-11-02"
+   },
+   {
+    "season": 16,
+    "episode": 1,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XV",
+    "plot": "Jako již tradičně, speciální čarodějnický díl je rozčleněn do tří strhujících příběhů, při jejichž sledování se vám budou ježit vlasy hrůzou...\n\nV prvním příběhu Nedova zóna má Homerův soused pravdivé představy o tom, jak kdo zemře, v druhé části s názvem Čtyři popravy a jeden pohřeb se vydáme do Londýna roku 1890 a budeme pátrat po nebezpečném vrahounovi Kotletkovi a nakonec v příběhu Šéfovi v břiše se Simpsonovi vydávají na pomoc Maggie do trochu nezvyklého prostředí...",
+    "still": "/cIegZWMyMbDf4fcbROoAdSkmcT8.jpg",
+    "aired": "2004-11-07"
+   },
+   {
+    "season": 17,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XVI",
+    "plot": "Speciální čarodějnický díl je rozčleněn do tří strhujících příběhů, při jejichž sledování se vám budou ježit vlasy hrůzou...\n\nV prvním příběhu Bartrobot je nahrazen těžko ovladatelný Bart slušně vychovaným roboťátkem, v dalším příběhu pozval pan Montgomery Burns několik lidiček ze Springfieldu na lov. Ovšem radost pozvaných se zanedlouho zkalila - nelovila se totiž zvěř... Třetí příběh nás zavede na springfieldskou halloweenskou party...",
+    "still": "/yAtfVc7UEoKxw7xupCkNP5rSlOJ.jpg",
+    "aired": "2005-11-06"
+   },
+   {
+    "season": 18,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XVII",
+    "plot": "Další ze speciálních čarodějnických dílů se opět skládá ze tří příběhů, které jsou tentokrát lehce inspirovány pohádkou o Oteánkovi, příběhy o Golemovi a nakonec slavnou rozhlasovou hrou Válka světů.",
+    "still": "/yRWtv3xDq395srLCrAS5ChBc9Zp.jpg",
+    "aired": "2006-11-05"
+   },
+   {
+    "season": 19,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XVIII",
+    "plot": "E.T. Go Home - Bart najde na zahradě v kůlně schovaného mimozemšťana Kodose. Jeho rod ho zapoměl zde na Zemi a on se nemůže vrátit. Bart s Lízou mu pomohou sestrojit vysílač, kterým by zavolal své rodině. Kodos však přístroj použije jako teleport a s pomocí svých vojáků se chystají vyhubit lidstvo.\n\nMr. & Mrs. Simpsons - Homer i Marge pracují jako nájemní zabijáci, aniž by o tom ten druhý věděl. Při úkolu zabít Kenta Brockmana se však navzájem odhalí a doma se strhne mezi nimi rvačka končící mnoha mrtvými a jejich vášnivým milováním.\n\nHeck House - Halloweenští koledníci Bart, Líza, Nelson a Milhouse se mstí spoluobčanům za ubohou výslužku. Jejich hrozné chování ale nezná hranic a proto Ned Flanders postaví ve Springfieldu \"Pekelný dům\", ve kterém dětem promítne, co je čeká v pekle.",
+    "still": "/yjmaAEE5wBMbAfPCOHbI2YRLmqF.jpg",
+    "aired": "2007-11-04"
+   },
+   {
+    "season": 20,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl",
+    "name_en": "Treehouse of Horror XIX",
+    "plot": "Devatenáctý halloweenský speciál, který tentokrát paroduje filmy \"Transformers\" v Morfeři - Transfeři - Formeři - Bezejmenmá parodie s roboty, seriál \"Mad Men\" ve znělce příběhu Jak dostat mrtvé do reklamy a \"It's the Great Pumpkin, Charlie Brown\"(Snoopy) v příběhu To je dýňák, Milhousi.",
+    "still": "/tDOgPUJ3qxgHBI63R6d1cGwHixE.jpg",
+    "aired": "2008-11-02"
+   },
+   {
+    "season": 21,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XX",
+    "name_en": "Treehouse of Horror XX",
+    "plot": "V oblíbené strašidelné show uvidíme parodii na Hitchcockův hit Vražda na objednávku, film 28 dní poté a hororový muzikál z Vočkova výčepu.",
+    "still": "/qk6gwqRQrvxtoAM1VGacGagO6EI.jpg",
+    "aired": "2009-10-18"
+   },
+   {
+    "season": 22,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXI",
+    "name_en": "Treehouse of Horror XXI",
+    "plot": "V prvním příběhu Vojna a hry musí Bart s Milhousem porazit oživlé deskové hry. V příběhu Master a mrtvola Homer a Marge, plující na jachtě, zachrání muže, ale nakonec Homer pozabíjí jeho i další lidi. Poslední příběh Sosání (Tweenlight) zparoduje upírskou sérii a z Homera se nakonec stane upír.",
+    "still": "/tf67LWNnIVeCLOZ1gSszw4MzqlE.jpg",
+    "aired": "2010-11-07"
+   },
+   {
+    "season": 23,
+    "episode": 3,
+    "name": "Speciální XXII. čarodějnický díl",
+    "name_en": "Treehouse of Horror XXII",
+    "plot": "Marge zabaví dětem cukroví z koledy a pošle Homera, aby je odevzdal organizaci, která posílá cukroví vojákům. To by ale nebyl Homer, kdyby ho nechtěl sníst sám. To se mu ale vymstí...",
+    "still": "/zJJSaVMkOuN84SRx1GN1k7u6ddT.jpg",
+    "aired": "2011-10-30"
+   },
+   {
+    "season": 24,
+    "episode": 2,
+    "name": "Speciální čarodějnický díl XXIII",
+    "name_en": "Treehouse of Horror XXIII",
+    "plot": "V úvodní scénce čarodějnického dílu se dozvíme, proč vlastně v roce 2012 skončí podle Mayů svět.",
+    "still": "/oct5oACjidT42l6yOHPEzLMWTXD.jpg",
+    "aired": "2012-10-07"
+   },
+   {
+    "season": 25,
+    "episode": 2,
+    "name": "Speciální čarodějnický díl XXIV",
+    "name_en": "Treehouse of Horror XXIV",
+    "plot": "Ou, pojď se mnou a říkej D'Oh! - V parodii na The Cat in the Hat od dr. Seusse navštíví Lisu, Barta a Maggie, kteří na Halloween museli kvůli nemoci zůstat doma, tlusťoch v klobouku (The Fat in the Hat) a způsobí nesčetně problémů.  Smrt za krkem - Bart se při pouštění draka dekapituje, a tak ej jeho hlava našita na Lise za krk. Jejich soužití ale není snadné.  Cirkus v cirkuse - V cirkuse se silák Homer rozhodne využít artistku Marge, aby od zrůdiček získal smaragdový prsten. Jenže zrůdičky se nedají.",
+    "still": "/mAMjn0q6FIfG9UgceqiWccSBAhG.jpg",
+    "aired": "2013-10-06"
+   },
+   {
+    "season": 26,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXV",
+    "name_en": "Treehouse of Horror XXV",
+    "plot": "Škola je peklo (School Is Hell) - Když je Bart po škole, najde na jedné z lavic staré runy. Lisa je přeloží a tím se dostanou do pekla. Ve zdejší škole Bart exceluje, a tak i když Lisa najde portál zpět, přesvědčí rodiče, aby školu mohl navštěvovat.  Mechanická žluť (A Clockwork Yellow) - Ve stylu Mechanického pomeranče vede Vočko partu výtržníků. Jenže když si Homer najde holku, parta se rozpadne. Když je Vočko napaden způsobem, který dříve prováděl, rozhodne se dát partu dohromady na poslední zátah...  Ti druzí (The Others) - V domě se dějí podivné věci. Ty způsobují duchové minulých Simpsonových. Jenže Homer začne flirtovat s minulou Marge, a tak se současná Marge zabije a promení v ducha. Brzy jí následuje celá rodina.",
+    "still": "/lkIPgYy4xFKp9oVfivpGr2NgiXP.jpg",
+    "aired": "2014-10-19"
+   },
+   {
+    "season": 27,
+    "episode": 4,
+    "name": "Halloween je horor",
+    "name_en": "Halloween of Horror",
+    "plot": "Blíží se Halloween Homer chystá parádní výzdobu. Lisa se zase těší, že je konečně dost velká, aby šla do strašidelného Krustylandu. Jenže přecení své síly a hrozně se vyděsí. Marge pak donutí Homera, aby sundal svou výzdobu, aby se Lisa nestresovala. To zase naštve Barta, a tak ho Marge vezme aspoň koledovat. Mezitím se Homer snaží Lisu udržet v klidu, zatímco on sám se bojí tří pomstychtivých prodavačů...",
+    "still": "/wG4EOudYo7dXpNI0kOk50sp6DWC.jpg",
+    "aired": "2015-10-18"
+   },
+   {
+    "season": 27,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl XXVI",
+    "name_en": "Treehouse of Horror XXVI",
+    "plot": "Hledá se mrtvý, spíše než živý (Wanted: Dead, Then Alive) - Levákovi Bobovi se konečně podařilo zabít Barta. Jenže pak nemá v životě žádnou radost. Rozhodne se tedy Barta oživit, aby ho mohl opakovaně zabíjet.  Homerzilla (Homerzilla) - Starý Japonec Simp-san háže každý den do moře koblihu a všichni se mu za to smějí. Jenže když umře a nikdo v jeho zvyku nepokračuje, naštvaná mořská příšera Homerzilla zaútočí na město. Tento film sledují producenti, kteří se rozhodnou udělat remake Zilla, ten je katastrofa, a tak se rozhodnou veškeré upomínkové předměty hodit do moře, tím ale vzbudí Homerzillu. \nSlavní telepati (Telepaths of Glory) - Když si Lisa, Bart a Milhouse hrají venku, Lisa narazí do Milhouse kamerou a shodí ho do hluboké díry. Pak se mu společně s Bartem vydají na pomoc. Na dně díry najdou barely radioaktivního odpadu, ten vybouchne. Děcka se pak vzbudí opět na povrchu. Lisa s Milhousem ovládají telekinezi, Milhouse ale svých schopností začne zneužívat. Když ho zasáhne blesk, vyjde najevo, že i Maggie má schopnosti.",
+    "still": "/hOJJOQl7RM5xQxvT02YF5CsfeJP.jpg",
+    "aired": "2015-10-25"
+   },
+   {
+    "season": 28,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXVII",
+    "name_en": "Treehouse of Horror XXVII",
+    "plot": "Suchonosná past (Dry Hard) - Springfield sužuje sucho a všechnu dostupnou vodu ovládá pan Burns. Ten se rozhodne uspořádat souboj na život a na smrt mezi dětmi a kdo vyhraje, stráví den na přehradě. To by ale nebyla Lisa, aby se nesnažila jeho plán překazit.\n\nKámošky až za hrob (BFF R.I.P.) - Lise začnou umírat přátelé. Brzy jí dojde, že za tím stojí její imaginární kamarádka z dětství Rachel, jenže tu nikdo jiný nevidí, a tak jsou podezřelá úmrtí dávána za vinu Lise. Ta proto musí vymyslet, jak se Rachel nadobro zbavit, než zavraždí všechny její blízké.\n\nZlatý Vočko (MoeFinger) - Vočko zachrání Barta před tyrany a poté mu prozradí, že je ve skutečnosti tajným angentem a spolu s ním i všichni štamgasti z hospody. A nyní je na Bartovi, aby zaujal místo svého zesnulého otce, kdysi nejlepšího agenta. Jeho první mise se týká společnosti Remoh Industries, která zkupuje veškeré pivo...",
+    "still": "/pIbIETUZQxUYsGcrsYMpMx5FBYE.jpg",
+    "aired": "2016-10-16"
+   },
+   {
+    "season": 29,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXVIII",
+    "name_en": "Treehouse of Horror XXVIII",
+    "plot": "Démonické dítě\n\nSimpsonovi obdrželi sošku démona PAZUZU nalezeného v Íráku. Homer nechá Maggie s démonem v pokoji a půjde na večírek. Maggie brzy posedne PAZUZU. Maggie má mužský hlas a může přemisťovat objekty na dálku. Flanderson přiváže Maggie záložkami a rodiče Maggie čekají na vymítače démonů. Vymítač démonů nakonec Maggie zachrání.\n\nKoralíza\n\nSněhulka najde tajné dvířka v pokoji a vejde do nich s Lízou. Tunel je zavede do její nové rodiny, která má místo očí knoflíky. Líza a Bart si je nechají přišít. Druhá \"knoflíková\" rodina příjde do \"normálního světa\" a Marge z druhé rodiny uklízí dům. Na konci této části Líza informuje, že třetí část čarodějnického dílu bude tak odporná, \"že byste si raději pustili Hru o trůny\".\n\nMMMňam Homer...\n\nMarge, Líza, Maggie a Bart odjeli na dovolenou a Homer zůstal sám doma. Homer si ugriluje \"osamělý páreček\" (párek). Když si jej chce rozpůlit, tak je párek ještě zmrzlý asi uřeže svůj ukazovák který mu spadl na gril, který po promyšlení snědl. Následovně Homer začne jíst ostatní části svého těla a stane se \"jáganem\". Jakmile příjdou ostatní členové rodiny, tak se ptají Homera proč má rukavice a že hodně zhubl. V poradně pro závislé potká kuchaře, který Homera uvaří, jeho rodina a přátelé Homera sní.",
+    "still": "/uPkAbZgpfLjgC2sX6zUrC1oXbfG.jpg",
+    "aired": "2017-10-22"
+   },
+   {
+    "season": 30,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXIX",
+    "name_en": "Treehouse of Horror XXIX",
+    "plot": "Vegetace útočí\n\nFirma Mapple přestavuje nový mobilní telefon MyPhone Ultima. Její vlastník, mimozemšťan, zavolá svým kolegům ať vyšlou rostliny, které zabijí Springfielďany a vytvářejí z nich zombie. Policista Lou se s Bartem a Lízou pokusí zachránit před rostlinami, ale i oni zemřou. Mimozemšťané vědomí Lízy a její rodiny přenesou do ráje na jiné planetě. Simpsonovi se dozvídají, že je mimozemšťané nezabili, ale zachránili před otroctvím na Zemi. Otrokáři byly chytrá zařízení od Mapplu.[4]\n\nLízan\n\nLíza uvězní Milhouse, Nelsona a Barta. Budou se snažit vymyslet plán, jak se dostat z cely. Až se jim to podaří, najdou Lízu, která je zrecykluje, kvůli tomu, že Bart Simpson přepsal Lízinu písemnou práci a dostala 5. Milhouse obalí do novin pomocí štosovače a Nelsona zabije. Když se chystá pomstít Bartovi, tak jí Bart přesvědčí, aby ho nezabila.\n\nGeriatrický park\n\nPan Burns otevírá Geriatrický park. Důchodci v parku konzumují dinosauří DNA, aby se omládli. Při návštěvě Abrahama Simpsona Homer v parku i přes varování zvyšuje teplotu a z důchodců v parku se postupně stávají dinosauři. Rodina Simpsonů před dinosaury uteče a schová se do záchranné baňky. Líza najde způsob, jak s dinousary mluvit a jak se k nim chovat. Zjistí, že i dinosauři mají city a naslouchá jim.",
+    "still": "/w5eZjHkmtwH5MIVvqPJdhcIcPhI.jpg",
+    "aired": "2018-10-21"
+   },
+   {
+    "season": 31,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXX",
+    "name_en": "Treehouse of Horror XXX",
+    "plot": "Milhouse se ztratí v paralelní dimenzi, Homer dostává po smrti další a další šance a Selma potkává životní lásku...",
+    "still": "/82NvRY8ZWbL50S4fBrrNqTkpcIb.jpg",
+    "aired": "2019-10-20"
+   },
+   {
+    "season": 32,
+    "episode": 4,
+    "name": "Speciální čarodějnický díl XXXI",
+    "name_en": "Treehouse of Horror XXXI",
+    "plot": "Z Barta se stane oživlá hračka, Homer začne terorizovat Springfield hned v šesti podobách a Líza se zasekne v čase...",
+    "still": "/iKJoBSkH7IEp6pp1EvVFLd3sUOu.jpg",
+    "aired": "2020-11-01"
+   },
+   {
+    "season": 33,
+    "episode": 3,
+    "name": "Speciální čarodějnický díl XXXII",
+    "name_en": "Treehouse of Horror XXXII",
+    "plot": "Simpsonovi si tentokrát na vlastní kůži prožijí osobité verze filmů Bambi, Kruh a Parazit…",
+    "still": "/pt7Jq9dz7QzrarQz02M7rcB22oP.jpg",
+    "aired": "2021-10-10"
+   },
+   {
+    "season": 34,
+    "episode": 6,
+    "name": "Speciální čarodějnický díl XXXIII",
+    "name_en": "Treehouse of Horror XXXIII",
+    "plot": "Marge je posedlá duchem a chce zabít Maggie. Lisa v anime světě zabíjí lidi díky notesu smrti a Simpsonovi zjistí, že jsou jen atrakcí v zábavním parku.",
+    "still": "/5BCwsrrBNIbA61hsQaDEhVGkCyV.jpg",
+    "aired": "2022-10-30"
+   },
+   {
+    "season": 35,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl XXXIV",
+    "name_en": "Treehouse of Horror XXXIV",
+    "plot": "Marge se musí vypravit na internet, aby osvobodila digitalizovaného Barta. Líza s pomocí Leváka Boba pátrá po sériovém vrahovi a Springfield je zamořen agresivním virem, který mění všechny obyvatele na Homery",
+    "still": "/223RAYPMWtXHSTFMtujdl9UBjzW.jpg",
+    "aired": "2023-11-05"
+   },
+   {
+    "season": 36,
+    "episode": 5,
+    "name": "Speciální čarodějnický díl XXXV",
+    "name_en": "Treehouse of Horror XXXV",
+    "plot": "Springfield ovládne souboj pravicového a levicového monstra, v domě pana Burnse začnou strašit duchové a Homer si pořídí džínového symbionta z kosmíru zvaného Denim.",
+    "still": "/bDyiA4MQLFxI7dlW2pmyMrKYKcE.jpg",
+    "aired": "2024-11-03"
+   },
+   {
+    "season": 36,
+    "episode": 7,
+    "name": "Speciální čarodějnický díl uvádí – Blíží se k nám Simpsonovi",
+    "name_en": "Treehouse of Horror Presents: Simpsons Wicked This Way Comes",
+    "plot": "Druhá strašidelná epizoda z cyklu Stromový domek hrůzy.",
+    "still": "/viw9wuy4BRecliPWtKR0DYNyrQY.jpg",
+    "aired": "2024-11-24"
+   },
+   {
+    "season": 37,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "Treehouse of Horror XXXVI",
+    "plot": "Springfield is threatened by a mysterious killer monster emerging from the sewers, Krusty welcomes a demonic guest to his Halloween special, and the action moves a thousand years into the future in a post-apocalyptic, plastic version of the city.",
+    "still": "/LkJKCND0dWYKSVQhx4iAGCLDic.jpg",
+    "aired": "2025-10-19"
+   },
+   {
+    "season": 38,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "Treehouse of Horror Presents: The Revengening",
+    "plot": "All hell breaks loose on Halloween when a killer comes to Springfield and hacks their way through town. No Simpson is safe from... THE REVENGENING!",
+    "still": "/8scWJopRcOjerwBnmrsOWbH365h.jpg",
+    "aired": "2026-10-18"
+   },
+   {
+    "season": 38,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "Treehouse of Horror XXXVII",
+    "plot": "In this year's extra-scary, ultra-spooky Treehouse of Horror, Marge gets a horrifying new perspective on marriage; Bart and Santa's Little Helper embark on a bone-chilling adventure; and Homer takes a driving lesson.",
+    "still": "/r4w2KQXOhOFXzTF7GN6GDNq0FF3.jpg",
+    "aired": "2026-10-25"
+   }
+  ]
+ },
+ {
+  "id": 32726,
+  "title": "Bobovy burgery",
+  "otitle": "Bob's Burgers",
+  "poster": "/alUltjrEWyIAw7Bhm1ffXKciNfi.jpg",
+  "fanart": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+  "episodes": [
+   {
+    "season": 3,
+    "episode": 2,
+    "name": "Celé tyčinky",
+    "name_en": "Full Bars",
+    "plot": "The Belcher kids break with a long standing Halloween tradition, veering away from their usual trick or treat trek in favor of a posh neighborhood that's known for its oversize goodies.",
+    "still": "/wUtxz5wRp3hERIA6vbOGEvKnwQ1.jpg",
+    "aired": "2012-10-07"
+   },
+   {
+    "season": 4,
+    "episode": 2,
+    "name": "Noc v pevnosti",
+    "name_en": "Fort Night",
+    "plot": "The kids' Halloween adventure goes awry when Louise's friend Millie takes them hostage.",
+    "still": "/R3Gy31HNKvrQJPzEfzfBViG6KH.jpg",
+    "aired": "2013-10-06"
+   },
+   {
+    "season": 6,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "The Hauntening",
+    "plot": "The Belchers are ready for an amazing Halloween! Louise reveals that she has never been scared before and the family sets out to visit a spooky haunted house. When trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!",
+    "still": "/4wIphvt3DXZkLYHiaIUKsCYWosh.jpg",
+    "aired": "2015-10-18"
+   },
+   {
+    "season": 7,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "Teen-A-Witch",
+    "plot": "With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. When Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose, who leads her to alternate and other-worldly methods of winning. Meanwhile, Bob is on a mission to figure out who is stealing his perfectly crafted pumpkins.",
+    "still": "/4yzXKPymLUUin94lDmnPOxxRe7W.jpg",
+    "aired": "2016-10-23"
+   },
+   {
+    "season": 8,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "The Wolf of Wharf Street",
+    "plot": "On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town. Meanwhile, an injured and medicated Bob believes that Teddy has turned into a werewolf.",
+    "still": "/ljdhEBXp9Wh6mzHYqTcRaEOWhvC.jpg",
+    "aired": "2017-10-22"
+   },
+   {
+    "season": 9,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "Nightmare on Ocean Avenue Street",
+    "plot": "The kids set out for their regular Halloween shenanigans, but when everyone's candy bags start mysteriously disappearing, it's up to Tina, Louise, and Gene to find the culprit. Meanwhile, Teddy decorates the restaurant to compete with another handyman on the street but gets a little carried away.",
+    "still": "/lWqXKqepbczPq0V2WdOC3pTdnWb.jpg",
+    "aired": "2018-10-21"
+   },
+   {
+    "season": 11,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "Heartbreak Hotel-oween",
+    "plot": "The kids meet a mysterious old woman at a hotel on Halloween as Louise plots her revenge for a candy transgression; Bob and Linda donate blood at a vampire-themed blood mobile.",
+    "still": "/at6mLBTKlzIfSBbzJVt3BEkr0oM.jpg",
+    "aired": "2020-11-01"
+   },
+   {
+    "season": 12,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "The Pumpkinening",
+    "plot": "When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago.",
+    "still": "/vFVjXAkrWGS5ahgccgDkunxfGGC.jpg",
+    "aired": "2021-10-10"
+   },
+   {
+    "season": 13,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Apple Gore-chard! (But Not Gory)",
+    "plot": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard. Meanwhile, Tina and Gene hope to win the school costume parade.",
+    "still": "/nTzjmBRp7a0994J3QGvqbkxDsvc.jpg",
+    "aired": "2022-10-30"
+   },
+   {
+    "season": 16,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "The Twinnening [Halloween]",
+    "plot": "Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques.",
+    "still": "/i6m8yPEWNUuravcsybbC14gwBl1.jpg",
+    "aired": "2025-10-19"
+   }
+  ]
+ },
+ {
+  "id": 2706,
+  "title": "Roseanne",
+  "otitle": "Roseanne",
+  "poster": "/4UARHgxTm7xwhcEHiVDwF0Gv4j0.jpg",
+  "fanart": "/hwCKVqEAoPQK91I3ewx64N1zLhS.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 7,
+    "name": "7. epizoda",
+    "name_en": "BOO!",
+    "plot": "The Conner family terrify each other out of their wits on Halloween night.",
+    "still": "/hUswAhCDE4xgMXACHF7rG8bZBcQ.jpg",
+    "aired": "1989-10-31"
+   },
+   {
+    "season": 3,
+    "episode": 7,
+    "name": "7. epizoda",
+    "name_en": "Trick or Treat",
+    "plot": "Roseanne, mistaken for a guy in her lumberjack Halloween costume, plays along with some braggarts and learns about machismo.",
+    "still": "/2KSgEls0pVmf0SrjLFuhjyzgYp4.jpg",
+    "aired": "1990-10-30"
+   },
+   {
+    "season": 4,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Trick Me Up, Trick Me Down",
+    "plot": "Roseanne is convinced that Kathy Bowman will take revenge for the Halloween prank she played on her; Jackie flirts with a moose at the Lodge costume party.",
+    "still": "/9LJWCyiM5uBDrL0GZEAAKadxmdR.jpg",
+    "aired": "1991-10-21"
+   },
+   {
+    "season": 5,
+    "episode": 7,
+    "name": "7. epizoda",
+    "name_en": "Halloween IV",
+    "plot": "Roseanne sends everyone to a party while she stays home -- and is visited by the ghosts of Halloween past, present, and future.",
+    "still": "/aumAA2zA8IFsrWPbDv261rRJSqW.jpg",
+    "aired": "1992-10-27"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Halloween V",
+    "plot": "Halloween at the diner becomes complicated when Nancy complains that Dan doesn't like her, and Roseanne discovers that Darlene and David are each dating others.",
+    "still": "/aMj5QAPG9zTKOAlYYbs1PavGnrN.jpg",
+    "aired": "1993-10-26"
+   },
+   {
+    "season": 7,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Skeleton in the Closet",
+    "plot": "Leon outdoes himself hosting a Halloween soiree with the Lunch Box clan and a bevy of his gay friends, many of whom seem to know Fred intimately.  Meanwhile, Jackie and Roseanne visit Bev's hairdresser and become convinced that she wears a wig.",
+    "still": "/2sLNJSqk2pS61RHup8h4a45DK6A.jpg",
+    "aired": "1994-10-26"
+   },
+   {
+    "season": 8,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "Halloween: the Final Chapter",
+    "plot": "Roseanne reigns as \"Queen of the Gypsies, consort of wizards and seer of souls\" on Halloween, when an Ouija board sending a message from \"The Dead\" portends an unexpected event: she's in labor.",
+    "still": "/rnUqj55uaDDwgZEKkioHmTcsrKY.jpg",
+    "aired": "1995-10-31"
+   },
+   {
+    "season": 9,
+    "episode": 7,
+    "name": "7. epizoda",
+    "name_en": "Satan, Darling",
+    "plot": "Absolutely fabulous glam gals Jennifer Saunders and Joanna Lumley (in character as Edina and Patsy) are among the few down-to-earth participants in Roseanne's outrageous Halloween outing. They're guests at an Upper West Side soiree, where new multimillionaires Roseanne and Jackie have gained entrance into New York society. But for grandmother-to-be Roseanne, a witches' coven soon comes into play \"a la Rosemary's Baby” and bizarre happenings begin to involve a very pregnant Darlene.",
+    "still": "/jYXnmgC28d4XnqOAShHKLbe7tc3.jpg",
+    "aired": "1996-10-29"
+   }
+  ]
+ },
+ {
+  "id": 48891,
+  "title": "Brooklyn 99",
+  "otitle": "Brooklyn Nine-Nine",
+  "poster": "/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg",
+  "fanart": "/9AeiA1XtP5sel2tAf9LaGeUjhDb.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "Amy, která nesnáší Halloween, je všechno, jenom ne svátečně naladěná. Musí si totiž vzít kostým a za rušné halloweenské noci se vydat s Charlesem do ulic.",
+    "still": "/41wJeO3WBgKxzEmI8BrsLHPq2W5.jpg",
+    "aired": "2013-10-22"
+   },
+   {
+    "season": 2,
+    "episode": 4,
+    "name": "Halloween II",
+    "name_en": "Halloween II",
+    "plot": "Jake s Holtem uzavírají každý rok na Halloween sázku. Tentokrát se Jake vsadí, že do půlnoci ukradne Holtovi hodinky, a že Ginu vyhodí z tanečního týmu Parketsmus.",
+    "still": "/5FFSvBcbScc4LWTI72VG7gwQH3K.jpg",
+    "aired": "2014-10-19"
+   },
+   {
+    "season": 3,
+    "episode": 5,
+    "name": "Halloween III",
+    "name_en": "Halloween III",
+    "plot": "Na každoroční halloweenskou akci Jake a Holt sestaví týmy a soupeří o to, kdo ukradne korunu. Amy neví, ke komu má být loajální, a tak zůstane na druhé koleji.",
+    "still": "/byCM7rRY6MQiOwuZ2O3RAPy52Qv.jpg",
+    "aired": "2015-10-25"
+   },
+   {
+    "season": 4,
+    "episode": 5,
+    "name": "Halloween IV",
+    "name_en": "Halloween IV",
+    "plot": "Když na okrsku uspořádají další loupežnou akci a rozhoduje se, kdo si skutečně zaslouží titul „Nejlepší detektiv/génius“, stává se Charles nečekaným přínosem.",
+    "still": "/guPilCUB55VHxUEoF9WoRQmRqfX.jpg",
+    "aired": "2016-10-18"
+   },
+   {
+    "season": 5,
+    "episode": 4,
+    "name": "HalloVeen",
+    "name_en": "HalloVeen",
+    "plot": "Během letošní halloweenské loupeže, při které se nemilosrdně soupeří o prestižní titul „úžasný člověk/génius“, si Jake přichystal pořádné překvapení.",
+    "still": "/7rnE9Ul7CwVymc3XTaAxfGtlljn.jpg",
+    "aired": "2017-10-17"
+   },
+   {
+    "season": 6,
+    "episode": 16,
+    "name": "Cinco de Mayo",
+    "name_en": "Cinco de Mayo",
+    "plot": "Parta chce rozptýlit Terryho, který se stresuje zkouškami, a tak nečekaně spustí halloweenskou loupež. Na stanici brzy zavládne chaos.",
+    "still": "/7V16fperXSPfFyoYVC3e2YmxCkZ.jpg",
+    "aired": "2019-05-09"
+   },
+   {
+    "season": 7,
+    "episode": 11,
+    "name": "Třikrát a dost",
+    "name_en": "Valloweaster",
+    "plot": "Začíná tradiční Halloweenská loupež! Korunovaci nového držitele titulu „Úžasný člověk/génius“ ale zdrží obtloustlý pes, pouta a další katastrofální události.",
+    "still": "/vKcChGWs55yHDeDV1jodRu4fO8q.jpg",
+    "aired": "2020-04-09"
+   }
+  ]
+ },
+ {
+  "id": 1421,
+  "title": "Taková moderní rodinka",
+  "otitle": "Modern Family",
+  "poster": "/lNOg5CzTT6wfTpuLzFzFUFQiJJ9.jpg",
+  "fanart": "/nO7EzksrBzlNpAg5rgv8HzaBIkx.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "Claire se těší na děsivě dobrý Halloween, ale to by museli všichni spolupracovat.",
+    "still": "/viTLwf36Dp6a21qzYUz7bXOar2z.jpg",
+    "aired": "2010-10-27"
+   },
+   {
+    "season": 4,
+    "episode": 5,
+    "name": "Den otevřených dveří plný hrůzy",
+    "name_en": "Open House of Horrors",
+    "plot": "Jak můžete říct milovnici Halloweenu, jako je Claire, aby nebyl strašidelný?",
+    "still": "/4jm0RggEQ3URXjQQr9JP64Cizzj.jpg",
+    "aired": "2012-10-24"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "Halloween 3: Země úžasu",
+    "name_en": "Halloween 3: AwesomeLand",
+    "plot": "Phil dostane na starosti Halloweenskou výzdobu domu.",
+    "still": "/w2jVbjFOcpZYIYj7M8QsJwkOWSY.jpg",
+    "aired": "2014-10-29"
+   },
+   {
+    "season": 8,
+    "episode": 5,
+    "name": "Halloween 4: Pomsta Roda Skyhooka",
+    "name_en": "Halloween 4: The Revenge of Rod Skyhook",
+    "plot": "Lukeova halloweenská párty neprobíhá tak, jak si vysnil.",
+    "still": "/aX1d6O7r6XvlBHScHURjMO9MvBO.jpg",
+    "aired": "2016-10-26"
+   },
+   {
+    "season": 9,
+    "episode": 5,
+    "name": "Philova velká dýně",
+    "name_en": "It's the Great Pumpkin, Phil Dunphy",
+    "plot": "Phil a Claire se snaží dětem dokázat, že Halloween je i pro dospělé.",
+    "still": "/lrAKqgWRYjOM5p24ZbaxyMZVL40.jpg",
+    "aired": "2017-10-25"
+   },
+   {
+    "season": 10,
+    "episode": 5,
+    "name": "Smutný Halloween",
+    "name_en": "Good Grief",
+    "plot": "Naše tři rodinky čeká další velkolepý Halloween.",
+    "still": "/A4dbxcWg2D0PIUh0uUQZVuz13nL.jpg",
+    "aired": "2018-10-24"
+   },
+   {
+    "season": 11,
+    "episode": 5,
+    "name": "Poslední Halloween",
+    "name_en": "The Last Halloween",
+    "plot": "Phil je odhodlán Claire na Halloween konečně jednou v životě vyděsit.",
+    "still": "/q0mNGqLVewp7zTS7rLeMsAxQSgH.jpg",
+    "aired": "2019-10-30"
+   }
+  ]
+ },
+ {
+  "id": 2190,
+  "title": "Městečko South Park",
+  "otitle": "South Park",
+  "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+  "fanart": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 7,
+    "name": "Zánět spojivek",
+    "name_en": "Pinkeye",
+    "plot": "První halloweenská epizoda začíná poruchou orbitální stanice MIR, která se zřítí přimo na Kennyho. V márnici se z něho nešťastnou nehodou stává zombie a South Parkem se řítí epidemie \"zánětu spojivek\", při které mrtví stávají z hrobů.",
+    "still": "/A21RE0u8zaqKH7XmrTuMeVXRoGL.jpg",
+    "aired": "1997-10-29"
+   },
+   {
+    "season": 3,
+    "episode": 10,
+    "name": "Korní záhada pirátských duchů",
+    "name_en": "Korn's Groovy Pirate Ghost Mystery",
+    "plot": "Je Halloween a do South Parku se chystá kapela Korn. Cestou má však nehodu, protože se jim na silnici zjeví duchové pirátů. Mezitím kluci přemýšlí, jak by vylekali páťáky, a rozhodnou se vykopat mrtvolu Kyleovy babičky.",
+    "still": "/x4gHZXWZahXpJuTSZTt7XaN9nry.jpg",
+    "aired": "1999-10-27"
+   },
+   {
+    "season": 10,
+    "episode": 11,
+    "name": "Peklo na Zemi",
+    "name_en": "Hell on Earth 2006",
+    "plot": "Je Halloween a Satan pořádá největší party v převlecích na světě.",
+    "still": "/wu3RLpwKQXjCIKKpw3YozN99oKI.jpg",
+    "aired": "2006-10-25"
+   },
+   {
+    "season": 16,
+    "episode": 12,
+    "name": "Noční můra z FaceTimu",
+    "name_en": "A Nightmare on FaceTime",
+    "plot": "Kluci jsou připraveni převléct se na Halloween za jejich oblíbenou čtyřku z Avengers. Po měsících plánování kostýmů nakonec Randy řekne Stanovi, že na koledu se svými kamarády jít nesmí. Místo toho musí Stan pomoct svému otci s novým obchodním podnikem.",
+    "still": "/nYhfitbeaE1AGGninW227dMmRQq.jpg",
+    "aired": "2012-10-24"
+   },
+   {
+    "season": 21,
+    "episode": 6,
+    "name": "Synové čarodějů",
+    "name_en": "Sons a Witches",
+    "plot": "Randy a jeho kamarádi mají tradici obléknout se před Halloweenem do čarodejnického oblečení, vystoupit na kopec nad městem a tam se opít a sjet na cracku. Chip Duncan na párty přinese kouzelnickou knihu, kterou koupil v obchodě v Salemu. Po přečtení zaklínadla se změní na skutečnou čarodějnici, začne terorizovat lidi, unášet děti a slibuje, že do Halloweenu budou všichni mrtví. Kyle, Stan, Butters a Kenny vymýšlejí plán, jak se zbavit čarodějnice, aby mohli jít na Halloween koledovat, zatímco Cartman vymýšlí vlastní plán, jak se zbavit Heidi.",
+    "still": "/u808lRhKoFhvqMbrOWUxDPeZ0zC.jpg",
+    "aired": "2017-10-25"
+   },
+   {
+    "season": 22,
+    "episode": 5,
+    "name": "Koloběžky",
+    "name_en": "The Scoots",
+    "plot": "Kluci chtějí jít koledovat přes Halloween na elektrických skútrech, aby stihli oběhnout co nejvíce domů a získat tak kopu sladkostí. Aby mohli e-skútry používat, musí mít mobil s aplikací. Jelikož je Kenny chudý a mobil nemá, kamarádi se mu sobecky otočí zády, aby je během koledování nezdržoval. Pan Mackey je z přítomnosti e-skútrů v ulicích města nesvůj a rozhodne se jich zbavit.",
+    "still": "/l5aUE4NjTIMmpmxIyIDYEIXAMRy.jpg",
+    "aired": "2018-10-31"
+   },
+   {
+    "season": 23,
+    "episode": 5,
+    "name": "Halloweenský speciál farem tegrita",
+    "name_en": "Tegridy Farms Halloween Special",
+    "plot": "Shelley nesnáší život na farmě a přímo nenávidí marihuanu. Aby dokázala otci, že to myslí vážně, pomocí chemikálií zničí jeho novou odrůdu, kterou se chystal prodávat přes Halloween. Při návštěvě archeologického muzea v Denveru aktivuje Butters starobylou kletbu lásky. Ta způsobí, že jedna z mumií ožije a začne terorizovat South Park.",
+    "still": "/v5SkBTtQscPz36097yUjwK4ghEY.jpg",
+    "aired": "2019-10-30"
+   }
+  ]
+ },
+ {
+  "id": 126027,
+  "title": "Duchové",
+  "otitle": "Ghosts",
+  "poster": "/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+  "fanart": "/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 5,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "On Halloween at Woodstone Mansion, the ghosts try to help Sam and Jay protect their home from the neighborhood kids who annually vandalize the house.",
+    "still": "/A9CRGxeLjiQI6siajdWGsQinNd7.jpg",
+    "aired": "2021-10-28"
+   },
+   {
+    "season": 2,
+    "episode": 5,
+    "name": "Služka Molly",
+    "name_en": "Halloween 2: The Ghost of Hetty's Past",
+    "plot": "A séance at Sam and Jay’s last-minute Halloween party conjures up a spirit from Hetty’s past. Also, Isaac worries Nigel will be turned off by his ghost power.",
+    "still": "/2Nw5OGXuDlxLAg8kFVpudp1wd6e.jpg",
+    "aired": "2022-10-27"
+   },
+   {
+    "season": 3,
+    "episode": 4,
+    "name": "Host, který nechtěl odejít",
+    "name_en": "Halloween 3: The Guest Who Wouldn't Leave",
+    "plot": "Pete's ex-wife, Carol, shows up at Woodstone Mansion during Sam and Jay's Halloween party, where they're trying to impress some cool friends. Also, the ghosts hope to bring Flower back with a séance.",
+    "still": "/433tgzggKAWRHgtamViyHS1lWZz.jpg",
+    "aired": "2024-03-07"
+   },
+   {
+    "season": 4,
+    "episode": 3,
+    "name": "Hon na čarodějnici",
+    "name_en": "Halloween 4: The Witch",
+    "plot": "The Ghosts seeking some excitement during a low key Halloween join Patience in putting Sam on a witch trial.",
+    "still": "/yYr0IKlvE3mdibY6uRK90UupS8V.jpg",
+    "aired": "2024-10-31"
+   },
+   {
+    "season": 5,
+    "episode": 3,
+    "name": "Mumie",
+    "name_en": "Halloween 5: The Mummy",
+    "plot": "Sam and Jay's Halloween takes a spooky turn when they accidentally unleash a mummy ghost.",
+    "still": "/uXHIq1Js6iGsh58HBKlLVR0IhWa.jpg",
+    "aired": "2025-10-30"
+   },
+   {
+    "season": 6,
+    "episode": 1,
+    "name": "1. epizoda",
+    "name_en": "Halloween 6: The Mirror",
+    "plot": "",
+    "still": "",
+    "aired": "2026-10-29"
+   },
+   {
+    "season": 6,
+    "episode": 2,
+    "name": "2. epizoda",
+    "name_en": "Halloween 6: The Mirror",
+    "plot": "",
+    "still": "",
+    "aired": "2026-10-29"
+   }
+  ]
+ },
+ {
+  "id": 49009,
+  "title": "Goldbergovi",
+  "otitle": "The Goldbergs",
+  "poster": "/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+  "fanart": "/vr2pasVUtMvpsWW8BhFBPbYiOl3.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 6,
+    "name": "Krotitelé duchů",
+    "name_en": "Who Are You Going to Telephone?",
+    "plot": "Beverly je zklamaná, když s ní děti nechtějí slavit Halloween; Beverly se snaží přimět Barryho lásku, aby s ním šla ven.",
+    "still": "/iitRGtdbZWIQ3Jvc8cHLwFvVI6e.jpg",
+    "aired": "2013-10-29"
+   },
+   {
+    "season": 2,
+    "episode": 5,
+    "name": "Rodina se o Beverly postará",
+    "name_en": "Family Takes Care of Beverly",
+    "plot": "Pops is evicted after accidentally starting a fire in his apartment during a Halloween party.",
+    "still": "/5fuNB2Q9us44mvoPPKbZ9CEJtRh.jpg",
+    "aired": "2014-10-29"
+   },
+   {
+    "season": 3,
+    "episode": 6,
+    "name": "Párové kostýmy",
+    "name_en": "Couples Costume",
+    "plot": "Adam chooses to spend Halloween night with Dana rather than Beverly, who decides to teach her son a lesson about the dangers of the holiday. Adam regrets taking Barry and Erica's advice to visit a haunted house when he's expected to go back inside to find Dana's lost promise ring.",
+    "still": "/sH8KyMIAI1f5zTD733PtHB5qL6k.jpg",
+    "aired": "2015-10-28"
+   },
+   {
+    "season": 4,
+    "episode": 5,
+    "name": "Adam a Stefan King",
+    "name_en": "Stefan King",
+    "plot": "Adam decides to start writing horror stories after being inspired by Stephen King; when Beverly finds out that the monster in Adam's story is based off of her, she makes him stay home on Halloween to rewrite the story to depict her in better light.",
+    "still": "/ix6zl61NdBYKDhBrle3q3awUJ8g.jpg",
+    "aired": "2016-10-26"
+   },
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "Jackie se líbí Star Trek",
+    "name_en": "Jackie Likes Star Trek",
+    "plot": "After Adam and Jackie disagree over their Halloween costumes, Murray teaches Adam to be a shell of a man to keep Jackie happy; however, it backfires quickly also causing an issue for Murray and Beverly.",
+    "still": "/6RWaluuzleP1Oul9aeZiX8qvHT.jpg",
+    "aired": "2017-10-25"
+   },
+   {
+    "season": 9,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "The Hunt for the Great Albino Pumpkin",
+    "plot": "Missing his Pops, Adam finds himself disenchanted with his once favorite time of year, Halloween, until Beverly encourages Pop Pop to spend time with his grandson. Barry decides to bring his former alter ego, rapper \"Big Tasty,\" back to life; and a chance encounter with the legendary Elvira, Mistress of the Dark, brings Barry and Joanne closer together.",
+    "still": "/d7pgmT0GNMvssbGfhRjfA3BR1qd.jpg",
+    "aired": "2021-10-27"
+   },
+   {
+    "season": 10,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "DKNY",
+    "plot": "In homage to the classic Halloween movies of the '80s, Geoff's terror over Beverly controlling all baby-care duties turns into a jump-scare-filled comedic thriller. Meanwhile, Adam is excited to spend Halloween visiting Dave Kim at NYU; however, his feelings change when he discovers that Dave Kim has reinvented himself.",
+    "still": "/3jzHrnijI7c2aUaFc4aqNYJKOFl.jpg",
+    "aired": "2022-10-26"
+   }
+  ]
+ },
+ {
+  "id": 2316,
+  "title": "Kancl",
+  "otitle": "The Office",
+  "poster": "/sg0HWHg7B5imnMHBul8neYfeBEU.jpg",
+  "fanart": "/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 5,
+    "name": "Máš padáka",
+    "name_en": "Halloween",
+    "plot": "Michael sleduje přípravy zaměstnanců na každoroční halloweenskou firemní party a trápí se tím, komu z nich dá padáka.",
+    "still": "/3c8jrPD5VEDAcSFJvODvmKEKkbA.jpg",
+    "aired": "2005-10-18"
+   },
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "Převod zaměstnankyně",
+    "name_en": "Employee Transfer",
+    "plot": "Pam přijde na Halloween jako jediná v kostýmu. Holly s Michaelem dostanou od vedení firmy nepříjemné zprávy a vyrazí až do Nashuy.",
+    "still": "/jRuZRhElmBHivu4BCui4Gzidwrg.jpg",
+    "aired": "2008-10-30"
+   },
+   {
+    "season": 7,
+    "episode": 6,
+    "name": "Soutěž kostýmů",
+    "name_en": "Costume Contest",
+    "plot": "Darryl přijde do firmy s nápadem; kancelář se zúčastní soutěže halloweenských kostýmů.",
+    "still": "/kVP86c3XsmDJ049fQ2rXDwYaNkj.jpg",
+    "aired": "2010-10-28"
+   },
+   {
+    "season": 8,
+    "episode": 5,
+    "name": "Halloweenská párty",
+    "name_en": "Spooked",
+    "plot": "Erin chce uspořádat halloweenský večírek, který potěší Andyho i Roberta.",
+    "still": "/18Qb60pxBFaQDb7kCxhqwBPcTCK.jpg",
+    "aired": "2011-10-27"
+   },
+   {
+    "season": 9,
+    "episode": 5,
+    "name": "Trable s kapelou",
+    "name_en": "Here Comes Treble",
+    "plot": "Andy pozve svou pěveckou skupinu, aby vystoupila na Halloween; Jim jedná impulzivně.",
+    "still": "/rUEiF3dFXEH56LosjzJnCsQammN.jpg",
+    "aired": "2012-10-25"
+   }
+  ]
+ },
+ {
+  "id": 61692,
+  "title": "Huangovi v Americe",
+  "otitle": "Fresh Off the Boat",
+  "poster": "/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",
+  "fanart": "/xcSH4KdTxvVmLARyrEeZOYrHjGR.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 5,
+    "name": "Zázrak na mrtvé ulici",
+    "name_en": "Miracle on Dead Street",
+    "plot": "Huangovi prožívají svůj první Halloween na předměstí a Louis je odhodlaný proměnit jejich „mrtvou“ ulici v hlavní cíl koledníků. A zatímco Louis, Eddie, Emery, Evan a dokonce i babička Huangová předvádí své propracované kostýmy, Jessica má úplně jiné plány – chránit svou investiční nemovitost před pubertálními vtipálky.",
+    "still": "/7CfNJ0DGulxLnQysByeNg7kUe54.jpg",
+    "aired": "2015-10-27"
+   },
+   {
+    "season": 3,
+    "episode": 3,
+    "name": "Louisween",
+    "name_en": "Louisween",
+    "plot": "Nadešel Louisův oblíbený svátek, a tak se snaží Jessicu vyděsit, aby ji dostal do halloweenské nálady, ona je ale zahrabaná v počítači a píše svůj první hororový román. Emery a Evan mezitím debatují o výběru kostýmů a Eddie a jeho parta se těší na párty se středoškoláky v domě Nicole.",
+    "still": "/lDdeunsFa6wHaSgtHfM96IBMx6k.jpg",
+    "aired": "2016-10-25"
+   },
+   {
+    "season": 4,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "It's a Plastic Pumpkin, Louis Huang",
+    "plot": "On Halloween, Louis is disappointed that Evan doesn’t take his childish delight in the holiday; Eddie and the gang plot to crash a cool older girl’s party; Jessica and Emery are spooked when they hear a strange man’s voice emanating from Grandma’s room, and things get even creepier when a mysterious group of costumed strangers whisk Grandma away, making them suspect the supernatural worst",
+    "still": "/1f72QVZFYbsUyRq68wXnnRxUSjw.jpg",
+    "aired": "2017-10-24"
+   },
+   {
+    "season": 5,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "Workin' the 'Ween",
+    "plot": "Honey and Marvin ask Jessica and Louis to be baby Maria’s godparents, and Jessica offers to babysit her on Halloween night. But the Huangs are in for a spooky evening when they agree to help wean the baby off of her pacifier. Meanwhile, Eddie is hired by mattress store owner Harv for a job to make some extra money so that he can buy himself a car and ends up having to work in the creepy store all by himself on Halloween.",
+    "still": "/q5Q8vLHsQAFE6EaLXEzRZ61z96h.jpg",
+    "aired": "2018-10-19"
+   },
+   {
+    "season": 6,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "Hal-lou-ween",
+    "plot": "It's Halloween again, and with Eddie getting closer to college (maybe), the Huang boys are determined to find a group costume they can all agree on. Meanwhile, Louis decides this is the year he'll finally show Jessica why his favorite spooky holiday is so great.",
+    "still": "/3q6F4XzA3GitzkmA04Lf5QiQ4I.jpg",
+    "aired": "2019-10-25"
+   }
+  ]
+ },
+ {
+  "id": 1558,
+  "title": "Kutil Tim",
+  "otitle": "Home Improvement",
+  "poster": "/aBBXL6YIYbUPBRAVYdEUW46oqsA.jpg",
+  "fanart": "/w0s1EmnmgkBYMSqZIrYgbiRt3j6.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "U Taylorů straší",
+    "name_en": "The Haunting of Taylor House",
+    "plot": "Blíží se Halloween a Tim se rozhodl letos připravit nejstrašidelnější dům v širokém okolí. Jill si jde půjčit kostým, o kterém tvrdí, že je ten nejhrůznější, který kdo kdy viděl, místo toho však přijde s nejsměšnějším kostýmem, který kdo kdy viděl. Brad chystá omluvu pro Jennifer, kterou urazil tím, že si ji nevybral při tělocviku do týmu. (TV Nova)",
+    "still": "/20J4ph8HnlVuaj3Ugz0EDYf3OMF.jpg",
+    "aired": "1992-10-28"
+   },
+   {
+    "season": 3,
+    "episode": 6,
+    "name": "Blázen do tebe",
+    "name_en": "Crazy for You",
+    "plot": "Je Halloween a Jill už má plné zuby toho, jak každý rok Timovi naletí na jeho vtípky. Chce mu to vrátit, a tak na něj poštve bláznivou fanynku, která se k němu bude snažit dostat všemi možnými způsoby. V realizaci Jillina ďábelského plánu jí pomáhá kamarádka Marie a soused Wilson. Mezitím se její tři synové snaží o co nejděsivější a nejodpornější kostýmy. (TV Nova)",
+    "still": "/eRJ7rf5LBsTFDl0uvNtV5cdzC2f.jpg",
+    "aired": "1993-10-27"
+   },
+   {
+    "season": 5,
+    "episode": 6,
+    "name": "Ať si dají dort",
+    "name_en": "Let Them Eat Cake",
+    "plot": "Večer se koná desátý ročník cen kabelových televizí, na kterých nesmí Tim s Alem chybět. Jsou smířeni s tím, že si všechny ceny odnese kuchařka Irma, stejně jako předešlé ročníky. Chystají tedy útěk domů, ovšem čeká je překvapení. Mezitím si Brad pozval domů spolužáka Jasona, který u Taylorů uspořádá mejdan. (TV Nova)",
+    "still": "/79MnDR0XhkCPcdMsUoEc823aMJ1.jpg",
+    "aired": "1995-10-31"
+   },
+   {
+    "season": 6,
+    "episode": 7,
+    "name": "Strašidelná noc",
+    "name_en": "I Was a Teenage Taylor",
+    "plot": "Blíží se Halloween, a tak si Brad a Randy své strašidelné pasti trénují na své matce Jill. Ta má však plné zuby děsení, a tak společně s Timem a Wilsonem vymyslí strašidelný příběh o rodině, která kdysi žila v jejich domě. Randy a Brad však zanedlouho past svých rodičů prokouknou a společně s Alem hrají jejich hru (TV Nova)",
+    "still": "/3QvbazvYTSf84WCWqvqBNvAmqvf.jpg",
+    "aired": "1996-10-29"
+   },
+   {
+    "season": 8,
+    "episode": 6,
+    "name": "Kouzelný Halloween",
+    "name_en": "Bewitched",
+    "plot": "Blíží se jeden z Timových nejoblíbenějších svátků v roce, a to Halloween. Tim se domnívá, že je králem žertů a nikdo ho ani letos nepřekoná. Wilson pořádá párty, kde se Tim seznamuje s jeho nejlepší přítelkyní Agatou, která se vydává za pravou čarodějku. Tim ji nebere vážně, ovšem když jde následující den navštívit Wilsona, nenajde ho. Pouze rozházené věci po domě a Agátin amulet. Tim volá policii a rozjíždí se vyšetřování Wilsonovy smrti. Tim však netuší, že se stal obětí žertu své rodiny a přátel. (TV Nova)",
+    "still": "/pahzIYqYGqeoN33JMQCgoU64gQg.jpg",
+    "aired": "1998-10-27"
+   }
+  ]
+ },
+ {
+  "id": 1418,
+  "title": "Teorie velkého třesku",
+  "otitle": "The Big Bang Theory",
+  "poster": "/8xAMaEMWDvEGIfRVSwmGwKBpyu3.jpg",
+  "fanart": "/rwYvhVv0vwbulMwxOfEsuAr1JrT.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 6,
+    "name": "Paradigma Pána prstenů",
+    "name_en": "The Middle-Earth Paradigm",
+    "plot": "Penny všechny pozvala na jejich kostýmovou Halloweenskou párty. Leonard tam však má problémy s jejím ex-přítelem.",
+    "still": "/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg",
+    "aired": "2007-10-29"
+   },
+   {
+    "season": 5,
+    "episode": 7,
+    "name": "Fluktuace dobráctví",
+    "name_en": "The Good Guy Fluctuation",
+    "plot": "Kluci vyděsí Sheldona blížícím se halloweenem a ten se jim to rozhodne oplatit. Leonard potká v obchodě s komiksy hezkou holku a má morální dilema, jestli si s ní má něco začít. Na poslední chvíli se zastaví a nevyspí se s ní. Pak se přizná Priye, že se líbal s jinou. Té to ale nevadí, protože se cítí provinile, že se vyspala se svým bývalým. Zničený Leonard se opře o pohovku a z ní vyskočí schovaný Sheldon a vyděsí ho. Sheldon je nadšen, že aspoň někoho vyděsil, protože Rajeshe se pokusil vystrašit hadem v šuplíku, ale Rajesh si ho vzal do rukou, začal si s ním povídat a odnesl ho do biologické laboratoře, aby si snědl nějakou myšku. Pak si chtěl Sheldon potřást rukou s Howardem, aby mu dal elektrošok. To se mu sice povedlo, jenže Howard má slabé srdce a svalí se k zemi. Bernie řekne Sheldonovi, že mu musí dát adrenalinovou injekci do srdce. K tomu se Sheldon po chvíli přemůže, ale ukáže se, že šlo ze strany Howarda a Bernie o legraci. Sheldon si pak poklepe na čelo, jak je hloupý a dostane elektrošok.",
+    "still": "/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg",
+    "aired": "2011-10-27"
+   },
+   {
+    "season": 6,
+    "episode": 5,
+    "name": "Holografická stimulace",
+    "name_en": "The Holographic Excitation",
+    "plot": "Všichni jsou už otráveni tím, jak Howard dokáže do každé konverzace vnést to, že byl ve vesmíru. Blíží se halloween a Rajesh navrhne Stuartovi, že bude sponzorovat párty v jeho obchodě. Holky nadnesou Penny, že by se měla více zajímat o Leonarda, protože je to neustále on, kdo dělá něco, co ho nebaví, jen aby ji potěšil. Penny jde tedy za Leonardem do práce, aby pochopila, co to vlastně dělá. Celé je to tak vzrušující, že se nakonec spolu vyspí v laboratoři a Penny ho pak opakovaně v práci navštíví.\n\nBernie naznačí Howardovi, že by mohl přestat s těmi narážkami na vesmír a ten se cítí dotčen, protože má pocit, že ho přátelé považují za nudného. Navíc se teď nebude moci chlubit svým největším úspěchem. Když vyjede na párty na Raje, který řeší, že ho nikdo nepochválil za zásluhy na přípravě, vezme si ho Bernadette stranou a uklidní ho a ujistí, že i bez vesmíru je skvělý muž.\n\nAmy vyjádří svůj nesouhlas s tím, že musí být vše podle Sheldona. Nyní chce, aby bylo po jejím a oblékli se na večírek jako správný pár. Sheldon je přiměn ke kompromisu, jde napůl za robota a napůl za hadrového panáčka.",
+    "still": "/zxD6kV0f0hKXELHgfRugzj5mLzA.jpg",
+    "aired": "2012-10-25"
+   },
+   {
+    "season": 12,
+    "episode": 6,
+    "name": "Odveta za imitaci",
+    "name_en": "The Imitation Perturbation",
+    "plot": "Wolowitz se na Halloween převleče za Sheldona, ten si to však nenechá líbit a na večírku Penny a Leonarda hledá odplatu. Leonard je pobouřený, když zjistí, že si Penny nepamatuje jejich první polibek.",
+    "still": "/xo7XJKGKLBcymivyVeRawWDDHtP.jpg",
+    "aired": "2018-10-25"
+   }
+  ]
+ },
+ {
+  "id": 8592,
+  "title": "Odbor městské zeleně",
+  "otitle": "Parks and Recreation",
+  "poster": "/5IOj62y2Eb2ngyYmEn1IJ7bFhzH.jpg",
+  "fanart": "/v7FPlZuuwJZ6YwJggf3Jx5pZNAz.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 7,
+    "name": "Greg Pikitis",
+    "name_en": "Greg Pikitis",
+    "plot": "Leslie požádá Davea a Andyho, aby jí pomohli dopadnout mladistvého vandala.",
+    "still": "/2X8w5mUapfEUtEnnduFG5igBkW1.jpg",
+    "aired": "2009-10-29"
+   },
+   {
+    "season": 4,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "Meet 'n' Greet",
+    "plot": "Andy and April host a Halloween bash at their house. Tom emcees an event for Leslie's campaign. Andy and April receive an unusual wedding present from Ron and Ann.",
+    "still": "/nLPVhU7wNtoZNgYd3U9DXIWkvzn.jpg",
+    "aired": "2011-10-27"
+   },
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "Halloween Surprise",
+    "plot": "A new job offer for Ben causes Leslie to contemplates their future. Meanwhile, Ron and Andy take Diane's girls out trick-or-treating, and Tom searches for a new business idea.",
+    "still": "/shemUSr5qOlY2B71ix86ic3GOZ.jpg",
+    "aired": "2012-10-25"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Recall Vote",
+    "plot": "Leslie prepares a haunted house with Ben, Ann and Chris for Halloween on the day of the recall vote. Meanwhile, Tom fears the end of Rent-A-Swag and persuades Ron to help save his business.",
+    "still": "/8ePXAoCSpYgqSThQ571psI3rgxH.jpg",
+    "aired": "2013-11-14"
+   }
+  ]
+ },
+ {
+  "id": 62649,
+  "title": "Obchoďák",
+  "otitle": "Superstore",
+  "poster": "/A2ogFsUOqMPh1oUixYXJsJ2L8ji.jpg",
+  "fanart": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 7,
+    "name": "Halloweenská krádež",
+    "name_en": "Halloween Theft",
+    "plot": "Po odhalení možné krádeže zahájí Dina vyšetřování v celém obchodě.",
+    "still": "/2ePvJI6CuDToboY7zpJGVBwsCsI.jpg",
+    "aired": "2016-10-27"
+   },
+   {
+    "season": 3,
+    "episode": 5,
+    "name": "Sal je mrtvý",
+    "name_en": "Sal's Dead",
+    "plot": "V obchodě je o Halloweenu nalezena mrtvola, což vyvolá paniku a zmatek.",
+    "still": "/eGfkiRuALvzmfIRpiEqbqdAW9hb.jpg",
+    "aired": "2017-10-26"
+   },
+   {
+    "season": 4,
+    "episode": 4,
+    "name": "Soutěž o nejlepší kostým",
+    "name_en": "Costume Competition",
+    "plot": "Amy a Mateo soupeří o vítězství v kostýmové soutěži; Glenn se bojí, že ho někdo sleduje.",
+    "still": "/kLb2JXy2his8ONUE8AvKnb1gd5l.jpg",
+    "aired": "2018-10-25"
+   },
+   {
+    "season": 5,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "Trick-or-Treat",
+    "plot": "Amy zapracuje na halloweenské atmosféře; Jonah sbírá odborové karty.",
+    "still": "/3HFKVteyWhSPN7VRT0F78Lqvu4J.jpg",
+    "aired": "2019-10-31"
+   }
+  ]
+ },
+ {
+  "id": 125935,
+  "title": "Základka Willarda Abbotta",
+  "otitle": "Abbott Elementary",
+  "poster": "/5NYBd2NyCHt6FXwAzaL6Xyf8Z3m.jpg",
+  "fanart": "/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Halloweenské bonbony",
+    "name_en": "Candy Zombies",
+    "plot": "Základka Willarda Abbotta slaví Halloween! Jeden žák ukradne pytel bonbonů, které se mají dětem dát až na konci dne, a začne je rozdávat během vyučování, a tak učitelé společně pátrají po pachateli. Janine dostane od starého známého pozvání na halloweenský večírek a začne přehodnocovat svůj osobní život.",
+    "still": "/8iNPwlifYEO8ols9HNN2KBmd9av.jpg",
+    "aired": "2022-10-26"
+   },
+   {
+    "season": 4,
+    "episode": 4,
+    "name": "Nejlepší kostým",
+    "name_en": "Costume Contest",
+    "plot": "Barbara narazí na odpor kvůli své tradiční soutěži v lovení jablek.",
+    "still": "/aIErojk3J2b0X1R2NWoIOSbQOCb.jpg",
+    "aired": "2024-10-30"
+   },
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "Camping",
+    "plot": "Barbara organizes a Halloween camping trip for older kids.",
+    "still": "/e5RDzSegcNu2koaINGvgaAr9e2B.jpg",
+    "aired": "2025-10-29"
+   },
+   {
+    "season": 6,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "Halloween Party",
+    "plot": "Ava hosts an exclusive Halloween party, and Janine and Jacob get suspicious of Gregory.",
+    "still": "",
+    "aired": "2026-10-28"
+   }
+  ]
+ },
+ {
+  "id": 61381,
+  "title": "black-ish",
+  "otitle": "black-ish",
+  "poster": "/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
+  "fanart": "/czpfLUoJt7uPQf2i7S2Mo2cwRGl.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Jacked o' Lantern",
+    "plot": "Ever since he was a kid, Dre has loved Halloween. Now that he lives in one of those “good candy neighborhoods,” kids come from all over the city to trick-or-treat, including Dre's own nieces and nephews. The cousins are known for roughhousing and The Johnson kids aren't happy when they come around, but Dre feels his kids could use some toughening. Meanwhile, Dre gets a surprise visit from his own cousin, June Bug, who used to torment Dre as a kid.",
+    "still": "/sXlD83agOmO09Sf1am1rMdNj5t7.jpg",
+    "aired": "2015-10-28"
+   },
+   {
+    "season": 3,
+    "episode": 5,
+    "name": "5. epizoda",
+    "name_en": "The Purge",
+    "plot": "After Junior embarrasses Dre during a basketball game, Dre decides to remind Junior of his master pranking skills so he'll never challenge him again. Meanwhile, the neighborhood participates in a “mischief night” during Halloween where petty crimes become legal, and Ruby takes it too far with the kids.",
+    "still": "/aRLCroqEmlPiuJe1rHOqXbXW8HZ.jpg",
+    "aired": "2016-10-26"
+   },
+   {
+    "season": 5,
+    "episode": 3,
+    "name": "3. epizoda",
+    "name_en": "Scarred for Life",
+    "plot": "The twins opt out of the family Halloween costume for fear it will hurt their social status in middle school. Dre and Bow take it upon themselves to protect them from bullies by putting together the best haunted house and invite the whole seventh grade. Meanwhile, Junior starts spending time with a girl from Ruby's choir and Ruby doesn't know how to feel about it.",
+    "still": "/s2jMK0sLSuRVIoilKL12u7CGwBm.jpg",
+    "aired": "2018-10-30"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "6. epizoda",
+    "name_en": "Everybody Blames Raymond",
+    "plot": "Halloween is around the corner and the Johnsons are definitely not seeing eye to eye on the family costume. The only thing they do agree on is that Jack's new friend Raymond has got to go. Meanwhile, Junior wants Devante's first trick-or-treating experience to be perfect.",
+    "still": "/kfaSOsFdkiF3FqS2LpmJLTeJp5F.jpg",
+    "aired": "2019-10-29"
+   }
+  ]
+ },
+ {
+  "id": 18347,
+  "title": "Zpátky do školy",
+  "otitle": "Community",
+  "poster": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+  "fanart": "/1xRfgONYmK3T6FSmbtcuo8eyxVt.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Epidemiologie",
+    "name_en": "Epidemiology",
+    "plot": "Dean Pelton's army surplus party food sparks an outbreak of zombie-ism at the Greendale Halloween party.",
+    "still": "/cqN8KqVfTwhLjrbnHA5N99YlC9P.jpg",
+    "aired": "2010-10-28"
+   },
+   {
+    "season": 3,
+    "episode": 5,
+    "name": "Horor v sedmi děsivých krocích",
+    "name_en": "Horror Fiction in Seven Spooky Steps",
+    "plot": "When a personality test suggests that one group member is a homicidal maniac, they use a series of scary Halloween stories to expose the killer.",
+    "still": "/zaKAF3UUVSGy1PxDFjREllUSUVm.jpg",
+    "aired": "2011-10-27"
+   },
+   {
+    "season": 4,
+    "episode": 2,
+    "name": "Paranormální rodičovství",
+    "name_en": "Paranormal Parentage",
+    "plot": "On the way to a Halloween party, the study group must free Pierce from his panic room and slowly comes to suspect that his mansion is haunted.",
+    "still": "/1MBNIV2GAHrGkzWEQAGLgqfT3WU.jpg",
+    "aired": "2013-02-14"
+   }
+  ]
+ },
+ {
+  "id": 387,
+  "title": "SpongeBob v kalhotách",
+  "otitle": "SpongeBob SquarePants",
+  "poster": "/skZgdh2cBb9PNdTwANYmb0tH3K6.jpg",
+  "fanart": "/f3f5OzzYd8m3zN47DAjKs0sbx00.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 26,
+    "name": "Halloween",
+    "name_en": "Scaredy Pants",
+    "plot": "Patrik pomáhá SpongeBobovi, aby byl o Halloweenu taky strašidelný a převlékl se za Létajícího Holanďana a pokusí se za něj vyděsit Křupavý Krab. Tam však ale dorazí skutečný Létající Holanďan.",
+    "still": "/jB3BqlW08S9Qak1zwpZeklopmMK.jpg",
+    "aired": "1999-10-28"
+   },
+   {
+    "season": 11,
+    "episode": 7,
+    "name": "Strašidelná legenda ze Zátiší Bikin",
+    "name_en": "The Legend of Boo-Kini Bottom",
+    "plot": "The Flying Dutchman wants to make sure SpongeBob and his friends are scared on Halloween.",
+    "still": "/29V56u8OXO5lYps1Fx0xSZYRKnU.jpg",
+    "aired": "2017-10-13"
+   },
+   {
+    "season": 16,
+    "episode": 8,
+    "name": "Kyblík, kde straší",
+    "name_en": "The Haunted Bucket",
+    "plot": "SpongeBob, Patrik a Sépiák se na haloweenskou noc ocitnou v Kamarádském Kyblíku.",
+    "still": "/pVjOWm8w4atey5We9MQTayDE8qX.jpg",
+    "aired": "2025-10-03"
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "title": "Buffy, přemožitelka upírů ",
+  "otitle": "Buffy the Vampire Slayer",
+  "poster": "/nMMT4Zo0X5VxAV0OwR4Pak2W77c.jpg",
+  "fanart": "/lBmlLro9ZfY815ZXE5NKhYNxPRQ.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "Je Halloween, snad jediný den v roce, kdy všichni démoni a upíři jsou někde zalezlí a nedělají problémy. Buffy a její kamarádi jsou přinuceni ředitelem Snyderem vést každý skupinku dětí a doprovázet je při koledování sladkostí. Buffy se oblékne jako šlechtična z 18. století, neboť zjistí, že když Angelovi bylo 18 let, měl pro takové šlechtičny slabost. Willow chce jít za svůdnou sexy holku, jenže na poslední chvíli zpanikaří a přehodí přes sebe prostěradlo. Alex si vybere převlek vojáka. Jenže posléze se všichni stanou tím, za co se převlékli. Z Willow je duch, z Alexe drsný voják a z Buffy se stane ubulená všeho se bojící prostoduchá slečinka. Když Spike zjistí, že je z Buffy bezbranná chudinka, rozhodne se toho využít a zabít ji.",
+    "still": "/z5jnWdxcKgM83y5QwpMGAYpO7aY.jpg",
+    "aired": "1997-10-27"
+   },
+   {
+    "season": 4,
+    "episode": 4,
+    "name": "Sám strach",
+    "name_en": "Fear, Itself",
+    "plot": "Je tu opět strašidelný Halloween! Parta jde oslavovat do domu bratrstva. Jenže v budově byla probuzena síla zla, která ztělesní všechny můry jejích návštěvníků.",
+    "still": "/a75JZnKRZX5LTSs8bxzk2GJV6Sc.jpg",
+    "aired": "1999-10-26"
+   },
+   {
+    "season": 6,
+    "episode": 6,
+    "name": "Celou cestou",
+    "name_en": "All the Way",
+    "plot": "Parta s napětím očekává další Halloween. Tentokrát je to dvojce upírů, která si rozhodla užít a na rande pozvala dvě nic netušící dívčiny. A Buffy má zase koho zachraňovat.",
+    "still": "/upgFsjYce8k4JsTQA6tabkvCCee.jpg",
+    "aired": "2001-10-30"
+   }
+  ]
+ },
+ {
+  "id": 1100,
+  "title": "Jak jsem poznal vaši matku",
+  "otitle": "How I Met Your Mother",
+  "poster": "/gr6XHihcum2shCqy6kw3IVJcYmW.jpg",
+  "fanart": "/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 6,
+    "name": "Nemravná dýně",
+    "name_en": "The Slutty Pumpkin",
+    "plot": "Ted se každoročně vydává na stejnou trapnou halloweenskou párty, aby se znovu setkal s dívkou, se kterou se tam kdysi seznámil, a Robin jde na dvojité rande s Marshallem a Lily.",
+    "still": "/bJrxhDeY3CpGVau68uDaED7vFOx.jpg",
+    "aired": "2005-10-24"
+   },
+   {
+    "season": 6,
+    "episode": 7,
+    "name": "Padák pro Randyho",
+    "name_en": "Canning Randy",
+    "plot": "Zoey se zapíše na Tedův předmět a zmanipuluje jeho studenty, aby se postavili na její stranu v boji za záchranu budovy, kterou mají zbourat kvůli jeho projektu. Marshall a Lily uvidí Robin, jak pochoduje v halloweenském průvodu hanby.",
+    "still": "/j88OTm6hh3iVr9FOrQbJ5tyY9t2.jpg",
+    "aired": "2010-11-01"
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "title": "Zlatá sedmdesátá",
+  "otitle": "That '70s Show",
+  "poster": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+  "fanart": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 5,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "Parta, která hledá nějakou zábavu na Halloween, navštíví své staré gymnázium, kde najde své trvalé záznamy. Při jejich prohlížení o sobě navzájem zjistí několik zajímavých věcí. Fez objevuje koledování.",
+    "still": "/hLGTZti9CQD4Mqe1UIzHqRHJoad.jpg",
+    "aired": "1999-10-26"
+   },
+   {
+    "season": 3,
+    "episode": 4,
+    "name": "Ptáci, pytle, paruky",
+    "name_en": "Too Old to Trick or Treat, Too Young to Die",
+    "plot": "Halloweenská epizoda plná parodií na filmy Alfreda Hitchcocka: \"Zadní okno\", \"Vertigo\", \"Ptáci\", \"Na sever severozápadní linkou\" a \"Psycho\".",
+    "still": "/3rDwImQXuEz2pYDDC3IoCPwkC1d.jpg",
+    "aired": "2000-10-31"
+   }
+  ]
+ },
+ {
+  "id": 2004,
+  "title": "Malcolm v nesnázích",
+  "otitle": "Malcolm in the Middle",
+  "poster": "/aELk3n97NVNTtaR5OX7L82YL3RM.jpg",
+  "fanart": "/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 2,
+    "name": "2. epizoda",
+    "name_en": "Halloween Approximately",
+    "plot": "Francis visits the week after Halloween and helps his brothers in a trick that involves a giant slingshot with icky ammo. Hal tries to catch a mysterious hot-rodder.",
+    "still": "/lDegDokMxZZFysChaFm6YIqOE3G.jpg",
+    "aired": "2000-11-08"
+   },
+   {
+    "season": 7,
+    "episode": 4,
+    "name": "4. epizoda",
+    "name_en": "Halloween",
+    "plot": "Reese and Malcolm try to perform the ultimate Halloween prank.",
+    "still": "/aREiBwcPDxrhQp5EqAqZNM8nwJT.jpg",
+    "aired": "2005-10-28"
+   }
+  ]
+ },
+ {
+  "id": 1892,
+  "title": "Fresh Prince",
+  "otitle": "The Fresh Prince of Bel-Air",
+  "poster": "/fJXzwxCVr2TEkhhKRKcih9o5DYK.jpg",
+  "fanart": "/uyB27Tx3KtczuSo4tDfmiXhfuCp.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 8,
+    "name": "Jako v pohádce (1)",
+    "name_en": "Someday Your Prince Will Be in Effect (1)",
+    "plot": "Will a Carlton soutěží, kdo si na rodinnou halloweenskou party přivede přítelkyni.",
+    "still": "/wgBXcnt8hCtDTYETda64eGKhPxn.jpg",
+    "aired": "1990-10-29"
+   },
+   {
+    "season": 1,
+    "episode": 9,
+    "name": "Jako v pohádce (2)",
+    "name_en": "Someday Your Prince Will Be in Effect (2)",
+    "plot": "Carltonův doprovod se na halloweenském večírku odmaskuje.",
+    "still": "/aHL7AS1SFDkKFRMCWEc1XraBxeO.jpg",
+    "aired": "1990-10-29"
+   }
+  ]
+ },
+ {
+  "id": 1434,
+  "title": "Griffinovi",
+  "otitle": "Family Guy",
+  "poster": "/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+  "fanart": "/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+  "episodes": [
+   {
+    "season": 9,
+    "episode": 4,
+    "name": "Halloween v Quahogu",
+    "name_en": "Halloween on Spooner Street",
+    "plot": "Během Halloweenu se Stewie a Brian vypořádávají s chlapci, kteří jim vzali sladkosti, Meg se snaží najít chlapce a Peter s Joem zažívají strašlivou příhodu.",
+    "still": "/qP4CikGUGAstq2BHydrVYwXFkxd.jpg",
+    "aired": "2010-11-07"
+   },
+   {
+    "season": 20,
+    "episode": 3,
+    "name": "Psy musíš milovat",
+    "name_en": "Must Love Dogs",
+    "plot": "V Quahogu probíhá Halloween.",
+    "still": "/1thrR9KPuCTGTTa5fd8RmlS1cMB.jpg",
+    "aired": "2021-10-10"
+   }
+  ]
+ },
+ {
+  "id": 1877,
+  "title": "Phineas a Ferb",
+  "otitle": "Phineas and Ferb",
+  "poster": "/PL8tyQ3yuy60iZpBQ4YRm8tFWy.jpg",
+  "fanart": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+  "episodes": [
+   {
+    "season": 3,
+    "episode": 22,
+    "name": "Kde žijí duchové",
+    "name_en": "That's the Spirit",
+    "plot": "It's Halloween night and the kids encounter a strange boy named Russell who is convinced his house is haunted. Meanwhile, Dr. Doofenshmirtz's disdain for grass causes him to invent a \"mind-transfer-inator\" enabling him to merge minds with a cow and destroy all the grass in the Tri-State Area. Unfortunately, his plan backfires and he transforms into a scary \"were-cow\" that wreaks havoc any time there is a full moon. It's now up to Agent P to stop him and save Danville.",
+    "still": "/mx0EuIQqUYa30GDpizqv3uyCMOA.jpg",
+    "aired": "2011-10-07"
+   },
+   {
+    "season": 4,
+    "episode": 25,
+    "name": "Halloweenstein",
+    "name_en": "Druselsteinoween",
+    "plot": "Phineas and Ferb deejay at Vanessa's Halloween party. Doofenshmirtz hunts for hidden treasure in a castle.",
+    "still": "/6Y6bCnengEpCnqS3mp0j9kJLzQY.jpg",
+    "aired": "2013-10-04"
+   }
+  ]
+ },
+ {
+  "id": 12225,
+  "title": "Prasátko Peppa",
+  "otitle": "Peppa Pig",
+  "poster": "/aliPOYu5n5RhTwKRgnBmvnJmaEd.jpg",
+  "fanart": "/r9QAxAW2KGQaVnEOxXKJuZ6RSJe.jpg",
+  "episodes": [
+   {
+    "season": 5,
+    "episode": 5,
+    "name": "Dýňová párty",
+    "name_en": "Pumpkin Competition",
+    "plot": "It's Halloween! Peppa has been helping Grandpa Pig carve his massive pumpkin. Now, with the help of Miss Rabbit, they have to work out how to get it to the pumpkin competition!",
+    "still": "/FZb96HzbVrHRedpqndrGplvI0.jpg",
+    "aired": "2016-10-28"
+   },
+   {
+    "season": 8,
+    "episode": 29,
+    "name": "29. epizoda",
+    "name_en": "Spooky Clubhouse",
+    "plot": "The children decorate the clubhouse to make it scary for Halloween... but not too scary. The kids give the grownups a tour of the spooky clubhouse. The grownups pretend to be scared!",
+    "still": "/gEJ99OiR9UbjICNp5dhTJZfMYMx.jpg",
+    "aired": "2024-10-07"
+   }
+  ]
+ },
+ {
+  "id": 66732,
+  "title": "Stranger Things",
+  "otitle": "Stranger Things",
+  "poster": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "fanart": "/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 1,
+    "name": "Kapitola první: Šílená Max",
+    "name_en": "Chapter One: MADMAX",
+    "plot": "Město se připravuje na Halloween, v arkádové herně skóruje hodně silný soupeř a skeptický Hopper jde na kontrolu pole plného shnilých dýní.",
+    "still": "/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg",
+    "aired": "2017-10-27"
+   },
+   {
+    "season": 2,
+    "episode": 2,
+    "name": "Kapitola druhá: Koledu, ty exote",
+    "name_en": "Chapter Two: Trick or Treat, Freak",
+    "plot": "Will v průběhu halloweenské noci zahlédne něco děsivého, Mika zajímá, jestli je Eleven ještě pořád tady. Nancy bojuje s pravdou o Barb.",
+    "still": "/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg",
+    "aired": "2017-10-27"
+   }
+  ]
+ },
+ {
+  "id": 1668,
+  "title": "Přátelé",
+  "otitle": "Friends",
+  "poster": "/2l2A2LYLlqDDUoGuv1s7NYWXgpZ.jpg",
+  "fanart": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+  "episodes": [
+   {
+    "season": 8,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "The One with the Halloween Party",
+    "plot": "Monica pořádá halloweenskou party. Pozvaní hosté ovšem mohou přijít pouze v kostýmu. Ursula oznámí své sestře Phoebe, že se bude vdávat. Monica je na večírku za kočičí ženu a snaží se trumfnout Phoebe, která se převlékla za Supergirl. Ross ve svém kostýmu vypadá jako velká brambora s anténou na hlavě, Joey se převlékne za Chandlera a Rachel za těhotnou ženu...   Phoebe se seznámí s Ursuliným snoubencem Erikem a prozradí mu, že Ursula mu lže. Monica a Joey se dohadují, jestli je silnější Ross, nebo Chandler. Těm dvěma nakonec nezbývá než se přetlačovat. Rachel chce koledníkům nabízet cukroví, protože se v ní začínají probouzet mateřské instinkty...",
+    "still": "/etHUWVLhXpPHCbzH4uNNetEQkUq.jpg",
+    "aired": "2001-11-01"
+   }
+  ]
+ },
+ {
+  "id": 71728,
+  "title": "Malý Sheldon",
+  "otitle": "Young Sheldon",
+  "poster": "/o8GddFodKDLRnxVRN9m0zBW30Gh.jpg",
+  "fanart": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Sedm smrtelných hříchů a malý Carl Sagan",
+    "name_en": "Seven Deadly Sins and a Small Carl Sagan",
+    "plot": "Mary se nepohodne se Sheldonovou učitelem herectví ohledně halloweenských plánů na výběr peněz pro kostel. Georgie se zakouká do vzpurné puberťačky, kterou Sheldon doučuje.",
+    "still": "/pyPMnyJNzqCxWWDjyB4FcItCPTx.jpg",
+    "aired": "2018-10-25"
+   }
+  ]
+ },
+ {
+  "id": 1420,
+  "title": "Nová holka",
+  "otitle": "New Girl",
+  "poster": "/mKSfnog3K6uNb36f7XLRign6ZZO.jpg",
+  "fanart": "/959IFVeGqz2M6qGvQ1RxN2r6Mq6.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 6,
+    "name": "Halloween",
+    "name_en": "Halloween",
+    "plot": "Jess dostane práci jako zombie ve strašidelném domě, ale víc ji děsí její měnící se city k Samovi. Schmidt a Cece se k sobě dokonale hodí v kostýmech, které mají na sobě, zatímco Winston a Shelby jsou v těch svých jako z jiného světa. Nicka navštíví bývalá láska z vysoké školy, která mu projevuje svou náklonnost děsivým způsobem.",
+    "still": "/h2oGh0pQ3tMJWyE3OAKvSQKsqJf.jpg",
+    "aired": "2012-10-30"
+   }
+  ]
+ },
+ {
+  "id": 2691,
+  "title": "Dva a půl chlapa",
+  "otitle": "Two and a Half Men",
+  "poster": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+  "fanart": "/coHpOy9OJyFiHWeH36cSHMpLUHC.jpg",
+  "episodes": [
+   {
+    "season": 12,
+    "episode": 1,
+    "name": "Mexický špenát",
+    "name_en": "The Ol' Mexican Spinach",
+    "plot": "Walden prodělá lehký infarkt a ihned si uvědomí pomíjivost lidského života. Chce přehodnotit své životní priority a nakonec dospěje k tomu, že by měl adoptovat díte...",
+    "still": "/k3tYbS0RSJIxyFXfszgRQblEq1r.jpg",
+    "aired": "2014-10-30"
+   }
+  ]
+ },
+ {
+  "id": 1433,
+  "title": "Americký táta",
+  "otitle": "American Dad!",
+  "poster": "/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+  "fanart": "/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+  "episodes": [
+   {
+    "season": 20,
+    "episode": 15,
+    "name": "15. epizoda",
+    "name_en": "Z.O.I.N.C.S.",
+    "plot": "It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate.",
+    "still": "/uPXQdaXqrKz47BBFXD8GJdQ0P2K.jpg",
+    "aired": "2023-10-30"
+   }
+  ]
+ },
+ {
+  "id": 40075,
+  "title": "Městečko Záhad",
+  "otitle": "Gravity Falls",
+  "poster": "/8cX1YwLOuPHxpRhsWKlmZgVv2Od.jpg",
+  "fanart": "/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+  "episodes": [
+   {
+    "season": 1,
+    "episode": 12,
+    "name": "Dušletničky",
+    "name_en": "Summerween",
+    "plot": "Dipper a Mabel jdou o Summerweenu koledovat. Narazí na monstrum, které miluje sladké. To jim pohrozí, že pokud mu nepřinesou sladkosti, tak je sežere.",
+    "still": "/cge8YOjXSrwvVZyPdHm4oVzhimV.jpg",
+    "aired": "2012-10-05"
+   }
+  ]
+ }
+]
