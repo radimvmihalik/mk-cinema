@@ -17,3 +17,7 @@ Repozitář doplňku **MK Cinema** (Midar Kilahim Cinema) pro Kodi.
 | `episodes` | vybrané díly seriálů | `file` (cesta k souboru v `epizody/`) |
 
 Volitelně: `color` (barva názvu, např. `FFFF9800`), `home: true` (ukázat i v hlavním menu), `icon`.
+
+## Žebříčky IMDb
+
+`zebricky.json` počítá jednou měsíčně GitHub Actions (`.github/workflows/zebricky.yml`) skriptem `tools/make_charts.py` z oficiálních dat IMDb: 150 nejlepších a 150 nejhorších titulů v každé kategorii (vážené hodnocení jako u IMDb Top 250, min. 25 000 hlasů u filmů a 10 000 u seriálů) a herce a herečky podle průměru hodnocení filmů, kde hráli hlavní roli (aspoň 10 filmů). Doplněk vyřadí tituly, u kterých se hodnocení IMDb a TMDB liší o víc než 3 body, a ukáže prvních 100.
