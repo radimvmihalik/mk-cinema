@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <!-- The id stays plugin.video.wskino so existing installs update in place and keep their login and history -->
-<addon id="plugin.video.wskino" name="MK Cinema" version="1.6.0" provider-name="Midar Kilahim">
+<addon id="plugin.video.wskino" name="MK Cinema" version="1.7.0" provider-name="Midar Kilahim">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.22.0"/>

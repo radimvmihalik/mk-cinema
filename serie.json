@@ -1,0 +1,291 @@
+{
+ "series": [
+  {
+   "id": 94039,
+   "title": "Asterix (kreslený)",
+   "parts": 11,
+   "poster": "/2Cg2cT1403db7hSbeXuLZ8tUqb3.jpg",
+   "fanart": "/vJH09M0PoZVdeMGnNzaeFAcsQV8.jpg"
+  },
+  {
+   "id": 2396,
+   "title": "Asterix (hraný)",
+   "parts": 6,
+   "poster": "/8Qs3BlMEu660sJrUiCHwSYGycGj.jpg",
+   "fanart": "/qDuW7l81vwgFAtjISG6Y0m1Pv48.jpg"
+  },
+  {
+   "id": 10,
+   "title": "Star Wars",
+   "parts": 9,
+   "poster": "/y2SNPwLT9zdZjJQRVX7T5u8mko7.jpg",
+   "fanart": "/iY2ujEY2m68OTTlPFTiHub9joHS.jpg"
+  },
+  {
+   "id": 151,
+   "title": "Star Trek: Původní série",
+   "parts": 6,
+   "poster": "/vNrbrsHOpXS3whk9DLuBNcjJy1s.jpg",
+   "fanart": "/qM8q2gWAeQF0XUpZ4XZc4CMX87a.jpg"
+  },
+  {
+   "id": 115570,
+   "title": "Star Trek: Nová generace",
+   "parts": 4,
+   "poster": "/sddV6vaUC6x37icJS3opIXTXB07.jpg",
+   "fanart": "/r7MMQenUURHhAVHFymtOb8AX4Bm.jpg"
+  },
+  {
+   "id": 115575,
+   "title": "Star Trek: Nová trilogie",
+   "parts": 3,
+   "poster": "/cARL5zeRCcFrwEZFj9AguKpHr0H.jpg",
+   "fanart": "/gWl5pN2FplE709aVtA4lakwsE6t.jpg"
+  },
+  {
+   "id": 1241,
+   "title": "Harry Potter",
+   "parts": 8,
+   "poster": "/7Iv851lSBVyBS5ROeIlII0yb1Tv.jpg",
+   "fanart": "/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg"
+  },
+  {
+   "id": 119,
+   "title": "Pán prstenů",
+   "parts": 3,
+   "poster": "/gWvzi8QecOXVdZMKSgIVB6xwqxl.jpg",
+   "fanart": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+  },
+  {
+   "id": 121938,
+   "title": "Hobit",
+   "parts": 3,
+   "poster": "/hYYkYUEL9SDM57eJcjsu7V1aNM0.jpg",
+   "fanart": "/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg"
+  },
+  {
+   "id": 84,
+   "title": "Indiana Jones",
+   "parts": 5,
+   "poster": "/GRh2IAzBebgi6jEJ8s6IX3Kry7.jpg",
+   "fanart": "/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg"
+  },
+  {
+   "id": 328,
+   "title": "Jurský park",
+   "parts": 8,
+   "poster": "/npi1KrwN9hsKnxOcaW6gsgcnDzN.jpg",
+   "fanart": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+  },
+  {
+   "id": 645,
+   "title": "James Bond",
+   "parts": 27,
+   "poster": "/qlNQnowyRcSAKBT48TE1dAnwF1s.jpg",
+   "fanart": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+  },
+  {
+   "id": 87359,
+   "title": "Mission: Impossible",
+   "parts": 8,
+   "poster": "/eaVadbMihludeb5ucqIzr20Hyy6.jpg",
+   "fanart": "/mroWh717g0Ah2c0rrPGW6f3EWMM.jpg"
+  },
+  {
+   "id": 9485,
+   "title": "Rychle a zběsile",
+   "parts": 12,
+   "poster": "/ljgeZSCK7zLHh2cdVIArtAbQetW.jpg",
+   "fanart": "/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg"
+  },
+  {
+   "id": 2344,
+   "title": "Matrix",
+   "parts": 4,
+   "poster": "/5OxEfyKPL9vcgthLxkVCQ4JB3xD.jpg",
+   "fanart": "/bRm2DEgUiYciDw3myHuYFInD7la.jpg"
+  },
+  {
+   "id": 295,
+   "title": "Piráti z Karibiku",
+   "parts": 5,
+   "poster": "/2faUpUEMUSf89Yjud4q8kbUXyrP.jpg",
+   "fanart": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+  },
+  {
+   "id": 528,
+   "title": "Terminátor",
+   "parts": 6,
+   "poster": "/tg24cQ2kpASdRppg8IC2aPMvaxL.jpg",
+   "fanart": "/sCnBEw2Yu6foEjs4Xb4eMddYHRo.jpg"
+  },
+  {
+   "id": 8091,
+   "title": "Vetřelec",
+   "parts": 4,
+   "poster": "/bwNS2F1ozbFB1vAMFnf8cjJuD3r.jpg",
+   "fanart": "/6X42JnSMdo3dPAswOHUuvebdTq7.jpg"
+  },
+  {
+   "id": 1575,
+   "title": "Rocky",
+   "parts": 6,
+   "poster": "/fKe9y1AJHEzoiHwSrjfwyinuCE8.jpg",
+   "fanart": "/yaXXemxz3ePNSrqNtc4ZAbuxJRv.jpg"
+  },
+  {
+   "id": 1570,
+   "title": "Smrtonosná past",
+   "parts": 5,
+   "poster": "/xdZdeHMF7wU7ZJNaCbj1nxJpj66.jpg",
+   "fanart": "/nKShbIW0wJnSbl3t8uPje0QhTb7.jpg"
+  },
+  {
+   "id": 264,
+   "title": "Návrat do budoucnosti",
+   "parts": 3,
+   "poster": "/tNQ5a8HedKtEL3LRZg57isRZ6by.jpg",
+   "fanart": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg"
+  },
+  {
+   "id": 9888,
+   "title": "Sám doma",
+   "parts": 4,
+   "poster": "/zYPsleQJo1n1rBPlecJBRb3iwSO.jpg",
+   "fanart": "/tpmfRWL1ecFxFOOeqvp6hDf41ac.jpg"
+  },
+  {
+   "id": 263,
+   "title": "Temný rytíř",
+   "parts": 3,
+   "poster": "/raw9zLUbYeGbAq5Ul92tqq47oY2.jpg",
+   "fanart": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+  },
+  {
+   "id": 86311,
+   "title": "Avengers",
+   "parts": 6,
+   "poster": "/wPNvf7ChXxSu4Zp2H9cdctOEOFR.jpg",
+   "fanart": "/2UNUv4NJdC36E5myDHACBJ99EwL.jpg"
+  },
+  {
+   "id": 131635,
+   "title": "Hunger Games",
+   "parts": 4,
+   "poster": "/nKHhUxWkruhTy8Rphg6v3Y8GWg5.jpg",
+   "fanart": "/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg"
+  },
+  {
+   "id": 33514,
+   "title": "Twilight sága",
+   "parts": 5,
+   "poster": "/3PlBwwizkPDZITeIPUlXQCejeQD.jpg",
+   "fanart": "/3be0BffeZTyMbj4Ndzo6Y877SBQ.jpg"
+  },
+  {
+   "id": 404609,
+   "title": "John Wick",
+   "parts": 4,
+   "poster": "/hvmQrcLAQvBOKCBOcZgsnTasffq.jpg",
+   "fanart": "/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+  },
+  {
+   "id": 31562,
+   "title": "Bourne",
+   "parts": 5,
+   "poster": "/gzjXgXr5IWDV9xg8ah8PL8V8h9f.jpg",
+   "fanart": "/vA5xMglyZv7yzDTj1qUTU4OvelV.jpg"
+  },
+  {
+   "id": 86055,
+   "title": "Muži v černém",
+   "parts": 3,
+   "poster": "/wlPvYoKuUOASX0rVduJetNYc4Zk.jpg",
+   "fanart": "/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"
+  },
+  {
+   "id": 230,
+   "title": "Kmotr",
+   "parts": 3,
+   "poster": "/kKjIYmvpBUIxcYJ0LL9YZwv4nrZ.jpg",
+   "fanart": "/28eqCQ51SuLfkbzhQE7jCmTfYfy.jpg"
+  },
+  {
+   "id": 8945,
+   "title": "Šílený Max",
+   "parts": 6,
+   "poster": "/tRxkZboyyXnFgCthoViWBwISZ0r.jpg",
+   "fanart": "/zI0q2ENcQOLECbe0gAEGlncVh2j.jpg"
+  },
+  {
+   "id": 2150,
+   "title": "Shrek",
+   "parts": 5,
+   "poster": "/rx1OUkBiYPuItmV9kfMexX1LupL.jpg",
+   "fanart": "/lhsd1zCsq5UquvcNalmhuddV3tI.jpg"
+  },
+  {
+   "id": 10194,
+   "title": "Toy Story",
+   "parts": 5,
+   "poster": "/3Y7zOHKxPPeccIfhHE6yU7ysn3f.jpg",
+   "fanart": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+  },
+  {
+   "id": 8354,
+   "title": "Doba ledová",
+   "parts": 7,
+   "poster": "/qS8bj9NNhJcEnEwBInZrXGMCCA6.jpg",
+   "fanart": "/2aMEn3wawIXva2xFFlQ2NClLEeW.jpg"
+  },
+  {
+   "id": 14740,
+   "title": "Madagaskar",
+   "parts": 3,
+   "poster": "/UXIxsUbwMpv4v8xXRdT7LX58z9.jpg",
+   "fanart": "/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg"
+  },
+  {
+   "id": 77816,
+   "title": "Kung Fu Panda",
+   "parts": 4,
+   "poster": "/wwMnX4v4P54EerDBBHX5R3DQ7D.jpg",
+   "fanart": "/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg"
+  },
+  {
+   "id": 86066,
+   "title": "Já padouch",
+   "parts": 4,
+   "poster": "/uVOGU1e778l0gJAJQVWj1DIZF4I.jpg",
+   "fanart": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+  },
+  {
+   "id": 89137,
+   "title": "Jak vycvičit draka",
+   "parts": 3,
+   "poster": "/ghCAVksDRhvVT61khDwfdMcyfwi.jpg",
+   "fanart": "/mvcfPkOvgDJG2lEAxTz0NKqoQLo.jpg"
+  },
+  {
+   "id": 142695,
+   "title": "Slunce, seno…",
+   "parts": 3,
+   "poster": "/7OJVj7Y5jelQt4ZS2JJ18tRQBUP.jpg",
+   "fanart": "/t1GLyi26TJTDHApTmBv5VefTbdI.jpg"
+  },
+  {
+   "id": 192075,
+   "title": "Kameňák",
+   "parts": 5,
+   "poster": "/gd9Kswl1R75eFVsEPtvwkxk6zBO.jpg",
+   "fanart": ""
+  },
+  {
+   "id": 280057,
+   "title": "Babovřesky",
+   "parts": 3,
+   "poster": "/iQKdmlc7HWGp3Z0wesP9vKnnI6d.jpg",
+   "fanart": "/u9GTD3YXHsGyFBVcSJ2q30YhaJ1.jpg"
+  }
+ ]
+}
