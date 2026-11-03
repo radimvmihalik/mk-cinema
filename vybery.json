@@ -2,15 +2,16 @@
   "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu.",
   "picks": [
     {
-      "title": "Halloween",
-      "color": "FFFF9800",
+      "title": "Vánoce",
+      "color": "FFE53935",
       "home": true,
       "items": [
-        {"title": "Halloweenské filmy", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
-        {"title": "Pro celou rodinu", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "with_genres": "10751|16", "vote_count.gte": 30}},
-        {"title": "Horory", "type": "discover", "media": "movie", "query": {"with_genres": 27, "vote_count.gte": 1000}},
-        {"title": "Strašidelné seriály", "type": "discover", "media": "tv", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
-        {"title": "Halloweenské díly seriálů", "type": "episodes", "file": "epizody/halloween.json"}
+        {"title": "Vánoční filmy", "type": "discover", "media": "movie", "query": {"with_keywords": "207317|1991", "vote_count.gte": 30}},
+        {"title": "Vánoční klasika", "type": "titles", "titles": [{"media": "movie", "id": 771}, {"media": "movie", "id": 772}, {"media": "movie", "id": 15387}, {"media": "movie", "id": 508}, {"media": "movie", "id": 5825}, {"media": "movie", "id": 8871}, {"media": "movie", "id": 5255}, {"media": "movie", "id": 10719}, {"media": "movie", "id": 1585}, {"media": "movie", "id": 1581}, {"media": "movie", "id": 562}, {"media": "movie", "id": 927}, {"media": "movie", "id": 508965}, {"media": "movie", "id": 9479}, {"media": "movie", "id": 11395}, {"media": "movie", "id": 9279}, {"media": "movie", "id": 51052}, {"media": "movie", "id": 9647}, {"media": "movie", "id": 10510}, {"media": "movie", "id": 1621}, {"media": "movie", "id": 17979}, {"media": "movie", "id": 10437}, {"media": "movie", "id": 527435}, {"media": "movie", "id": 549053}, {"media": "movie", "id": 12193}, {"media": "movie", "id": 10147}, {"media": "movie", "id": 36892}]},
+        {"title": "Pro celou rodinu", "type": "discover", "media": "movie", "query": {"with_keywords": "207317|1991", "with_genres": "10751|16", "vote_count.gte": 30}},
+        {"title": "České pohádky", "type": "titles", "titles": [{"media": "movie", "id": 8703}, {"media": "movie", "id": 54333}, {"media": "movie", "id": 51959}, {"media": "movie", "id": 41228}, {"media": "movie", "id": 49587}, {"media": "movie", "id": 36918}, {"media": "movie", "id": 5589}, {"media": "movie", "id": 50774}, {"media": "movie", "id": 74873}, {"media": "movie", "id": 47396}, {"media": "movie", "id": 428330}, {"media": "movie", "id": 84030}, {"media": "movie", "id": 46091}, {"media": "movie", "id": 82716}, {"media": "movie", "id": 82717}, {"media": "movie", "id": 77595}, {"media": "movie", "id": 85626}, {"media": "movie", "id": 85627}, {"media": "movie", "id": 112225}, {"media": "movie", "id": 78851}, {"media": "movie", "id": 109980}, {"media": "movie", "id": 126555}, {"media": "movie", "id": 139082}, {"media": "movie", "id": 78818}, {"media": "movie", "id": 82279}, {"media": "movie", "id": 51902}, {"media": "movie", "id": 567181}, {"media": "movie", "id": 649034}, {"media": "movie", "id": 322796}, {"media": "movie", "id": 374060}, {"media": "movie", "id": 241635}, {"media": "movie", "id": 81719}, {"media": "movie", "id": 663302}, {"media": "movie", "id": 81701}, {"media": "movie", "id": 80045}, {"media": "movie", "id": 313686}, {"media": "movie", "id": 1005059}, {"media": "movie", "id": 81614}, {"media": "movie", "id": 82192}]},
+        {"title": "Vánoční seriály", "type": "discover", "media": "tv", "query": {"with_keywords": 207317, "vote_count.gte": 20}},
+        {"title": "Vánoční díly seriálů", "type": "episodes", "file": "epizody/vanoce.json"}
       ]
     }
   ]
