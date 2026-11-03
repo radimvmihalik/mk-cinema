@@ -1,0 +1,209 @@
+[
+ {
+  "id": 456,
+  "title": "Simpsonovi",
+  "otitle": "The Simpsons",
+  "poster": "/poTtFCp1LjEl187NuqD6ekFplb6.jpg",
+  "fanart": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+  "episodes": [
+   {
+    "season": 17,
+    "episode": 7,
+    "name": "Pomsta červených rajčátek",
+    "name_en": "The Last of the Red Hat Mamas",
+    "plot": "Marge touží najít kamarádku - proto se obrátí na celonárodní společenskou organizaci pro ženy jistého věku s dost neobvyklým názvem Veselá červená rajčátka. Ovšem asi to nebude jen tak ledajaký spolek! Líza se potřebuje naučit italsky a dostane učitele, kterého opravdu nečekala...",
+    "still": "/2Tz4ed7Htfxn34hymPzButlc6AM.jpg",
+    "aired": "2005-11-27"
+   },
+   {
+    "season": 24,
+    "episode": 16,
+    "name": "Temný rytíř zasahuje",
+    "name_en": "Dark Knight Court",
+    "plot": "Bart je obviněn z žertíku na velikonoční oslavě. Jenže tentokrát to nebyl on a Lisa je odhodlaná bratra obhájit u soudu pro mladistvé. Pan Burns se mezitím začte do komiksů a rozhodne se být maskovaným superhrdinou...",
+    "still": "/zfivy63XVvEiyWlZVAkImjlEcHH.jpg",
+    "aired": "2013-03-17"
+   }
+  ]
+ },
+ {
+  "id": 2190,
+  "title": "Městečko South Park",
+  "otitle": "South Park",
+  "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+  "fanart": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+  "episodes": [
+   {
+    "season": 11,
+    "episode": 5,
+    "name": "Šifra velikonočního králíka",
+    "name_en": "Fantastic Easter Special",
+    "plot": "Stan se rozhodne zjistit, proč se na Velikonoce malují vejce a přitom odhalí skryté tajemství katolické církve.",
+    "still": "/xNRUMz4ag6fdeA8qxlL4YN1EIcH.jpg",
+    "aired": "2007-04-04"
+   },
+   {
+    "season": 16,
+    "episode": 4,
+    "name": "Židokabra",
+    "name_en": "Jewpacabra",
+    "plot": "Velký lov velikonočních vajíček v South Parku je ohrožen kvůli zvěstem, že v blízkých lesích číhá nebezpečná stvůra. Cartman se snaží všechny varovat, že budou riskovat životy, pokud se zúčastní lovu vajíček. Nikdo mu nevěří, dokud nepředloží důkaz o existenci tajemné bytosti na videu.",
+    "still": "/tzbVlAJJiAtW984i6mZRtGdVRWd.jpg",
+    "aired": "2012-04-04"
+   }
+  ]
+ },
+ {
+  "id": 12225,
+  "title": "Prasátko Peppa",
+  "otitle": "Peppa Pig",
+  "poster": "/aliPOYu5n5RhTwKRgnBmvnJmaEd.jpg",
+  "fanart": "/r9QAxAW2KGQaVnEOxXKJuZ6RSJe.jpg",
+  "episodes": [
+   {
+    "season": 3,
+    "episode": 33,
+    "name": "Jaro",
+    "name_en": "Spring",
+    "plot": "Grandpa Pig organises a chocolate egg hunt for Peppa and her friends. Will the piglets track down the treats?",
+    "still": "/5n5UNfpi7EevLX9vbRjIT20wIs2.jpg",
+    "aired": "2010-09-29"
+   },
+   {
+    "season": 5,
+    "episode": 8,
+    "name": "Velikonoční zajíček",
+    "name_en": "Easter Bunny",
+    "plot": "Peppa and her friends are at Rebecca Rabbit's house for an Easter Egg hunt. But can they find the Easter Bunny hiding all of the chocolate eggs?",
+    "still": "/u5kOlEBe7CmM1zg8tzG8bK51Bhb.jpg",
+    "aired": "2017-04-15"
+   }
+  ]
+ },
+ {
+  "id": 32726,
+  "title": "Bobovy burgery",
+  "otitle": "Bob's Burgers",
+  "poster": "/alUltjrEWyIAw7Bhm1ffXKciNfi.jpg",
+  "fanart": "/2AVPwdHJsF044jT39akgLxxv2zx.jpg",
+  "episodes": [
+   {
+    "season": 7,
+    "episode": 16,
+    "name": "16. epizoda",
+    "name_en": "Eggs for Days",
+    "plot": "The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry. After the Belcher parents have a little too much fun hiding the eggs, the entire family is enlisted in finding the lone egg that is quickly rotting in its hiding place. Don't miss the calamity that ensues",
+    "still": "/6yjEuucIbpuKaCIcQSmRXIotWHH.jpg",
+    "aired": "2017-04-02"
+   }
+  ]
+ },
+ {
+  "id": 1877,
+  "title": "Phineas a Ferb",
+  "otitle": "Phineas and Ferb",
+  "poster": "/PL8tyQ3yuy60iZpBQ4YRm8tFWy.jpg",
+  "fanart": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+  "episodes": [
+   {
+    "season": 3,
+    "episode": 10,
+    "name": "Candy bez spojení",
+    "name_en": "Candace Disconnected",
+    "plot": "Candace has no choice but to go to her brothers for help after she loses her phone for the fifth time. Unbeknownst to her, the phone that they invent for her has a voice activated phone transfer app that sends her to Easter Island. Meanwhile, back at Evil Inc., Dr. Doofenshmirtz invents a \"Pick 'Em Up-inator\" to pick Vanessa up from class, then he finds Sarcastic Norm Head, the Norm head prototype that has an affinity for sarcasm, later Doofenshmirtz and Perry watch an exercise show.",
+    "still": "/6VxsiMwjOeyAUr6R8Lr4LMiXwk1.jpg",
+    "aired": "2011-06-18"
+   }
+  ]
+ },
+ {
+  "id": 82728,
+  "title": "Blue",
+  "otitle": "Bluey",
+  "poster": "/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg",
+  "fanart": "/tWdNZ3xuFBhJ2ZoQ9vShNGHTb85.jpg",
+  "episodes": [
+   {
+    "season": 2,
+    "episode": 52,
+    "name": "Velikonoce",
+    "name_en": "Easter",
+    "plot": "Bingo je přesvědčená, že na ně velikonoční zajíček zapomněl stejně jako loni. Pak ale Bluey objeví sérii nápověd, které je obě zavedou na velikonoční lov za pokladem.",
+    "still": "/gtbjeIWFGSLpgSMYXFhd3z0Dgwg.jpg",
+    "aired": "2021-04-04"
+   }
+  ]
+ },
+ {
+  "id": 60625,
+  "title": "Rick a Morty",
+  "otitle": "Rick and Morty",
+  "poster": "/4LnVjEIlDG4PCyY7PDSBJxgeRWD.jpg",
+  "fanart": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+  "episodes": [
+   {
+    "season": 8,
+    "episode": 4,
+    "name": "Poslední pokušení Jerryho",
+    "name_en": "The Last Temptation of Jerry",
+    "plot": "Smithovi se dozvídají o významu Velikonoc.",
+    "still": "/bvaJhvaBHHuiMZb80ErCCSuRRDz.jpg",
+    "aired": "2025-06-15"
+   }
+  ]
+ },
+ {
+  "id": 62649,
+  "title": "Obchoďák",
+  "otitle": "Superstore",
+  "poster": "/A2ogFsUOqMPh1oUixYXJsJ2L8ji.jpg",
+  "fanart": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+  "episodes": [
+   {
+    "season": 4,
+    "episode": 16,
+    "name": "Velikonoce",
+    "name_en": "Easter",
+    "plot": "Amy na základě svého podezření využívá bezpečnostní systém ke špehování zaměstnanců Cloud 9.",
+    "still": "/lrZBt5SPXOObtR4FCNJ2yJ1KFNZ.jpg",
+    "aired": "2019-04-18"
+   }
+  ]
+ },
+ {
+  "id": 61381,
+  "title": "black-ish",
+  "otitle": "black-ish",
+  "poster": "/ga1zJ6UejPIfyL8BA22pK6dqsC8.jpg",
+  "fanart": "/czpfLUoJt7uPQf2i7S2Mo2cwRGl.jpg",
+  "episodes": [
+   {
+    "season": 4,
+    "episode": 17,
+    "name": "17. epizoda",
+    "name_en": "North Star",
+    "plot": "When both Dre and Bow's families show up for Easter, they have to learn to love each other's different cuisines. Meanwhile, Junior tries to organize an Easter egg hunt but Jack and Diane pretend not to be interested to impress their cooler cousins.",
+    "still": "/hOP6dzuUF8vaDsQCCoBXkbPSnmv.jpg",
+    "aired": "2018-03-27"
+   }
+  ]
+ },
+ {
+  "id": 2140,
+  "title": "Raymonda má každý rád",
+  "otitle": "Everybody Loves Raymond",
+  "poster": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+  "fanart": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+  "episodes": [
+   {
+    "season": 8,
+    "episode": 19,
+    "name": "19. epizoda",
+    "name_en": "The Nice Talk",
+    "plot": "When the MacDougals are invited to spend Easter with the Barones, the two families attempt to bond over a 500-piece puzzle. While everyone else gets frustrated with the puzzle, Ray and Pat continue working on it until the wee hours of the night while sharing stories about themselves and their families.",
+    "still": "/dAYbIBEoegHZhs9uyZUclTpnSLg.jpg",
+    "aired": "2004-04-19"
+   }
+  ]
+ }
+]

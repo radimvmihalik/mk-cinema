@@ -1,12 +1,51 @@
 {
-  "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu. from/to = kdy se položka ukazuje (včetně obou dnů): MM-DD každý rok, může jít i přes Nový rok (11-03 až 01-06), nebo RRRR-MM-DD jen jednou. Bez from/to se ukazuje pořád.",
+  "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}, místo id i imdb nebo search + year; label = text před názvem, note = za ním), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu. from/to = kdy se položka ukazuje (včetně obou dnů): MM-DD každý rok, může jít i přes Nový rok (11-02 až 01-06), RRRR-MM-DD jen jednou, velikonoce-30 / velikonoce+1 počítá dny od Velikonoční neděle. Bez from/to se ukazuje pořád. Oscary a festivaly jsou v oceneni.json, ten se generuje sám.",
   "picks": [
+    {
+      "title": "Valentýn",
+      "color": "FFEC407A",
+      "home": true,
+      "from": "01-15",
+      "to": "02-14",
+      "items": [
+        {"title": "Valentýnské filmy", "type": "discover", "media": "movie", "query": {"with_keywords": 160404, "vote_count.gte": 30}},
+        {"title": "Romantické komedie", "type": "discover", "media": "movie", "query": {"with_genres": "10749,35", "vote_count.gte": 1000}},
+        {"title": "Romantické filmy", "type": "discover", "media": "movie", "query": {"with_genres": 10749, "without_genres": 35, "vote_count.gte": 2000}},
+        {"title": "České romantické filmy", "type": "discover", "media": "movie", "query": {"with_genres": 10749, "with_origin_country": "CZ", "vote_count.gte": 10}},
+        {"title": "Valentýnské díly seriálů", "type": "episodes", "file": "epizody/valentyn.json"}
+      ]
+    },
+    {
+      "title": "Velikonoce",
+      "color": "FF9CCC65",
+      "home": true,
+      "from": "velikonoce-30",
+      "to": "velikonoce+1",
+      "items": [
+        {"title": "Velikonoční filmy", "type": "discover", "media": "movie", "query": {"with_keywords": "9921|9923", "vote_count.gte": 10}},
+        {"title": "Biblické filmy", "type": "titles", "titles": [{"media": "movie", "id": 615}, {"media": "movie", "id": 665}, {"media": "movie", "id": 6844}, {"media": "movie", "id": 9837}, {"media": "movie", "id": 12545}, {"media": "movie", "id": 11051}, {"media": "movie", "id": 335778}, {"media": "movie", "id": 235260}, {"media": "movie", "id": 407439}, {"media": "movie", "id": 24192}, {"media": "movie", "id": 2428}, {"media": "movie", "id": 36362}, {"media": "movie", "id": 29912}, {"media": "movie", "id": 86834}, {"media": "movie", "id": 147441}, {"media": "movie", "id": 583}]},
+        {"title": "Velikonoční díly seriálů", "type": "episodes", "file": "epizody/velikonoce.json"}
+      ]
+    },
+    {
+      "title": "Léto a prázdniny",
+      "color": "FFFFCA28",
+      "home": true,
+      "from": "06-01",
+      "to": "08-31",
+      "items": [
+        {"title": "Letní filmy", "type": "discover", "media": "movie", "query": {"with_keywords": "13088|5767|966|6876|7312|14714", "with_genres": "35|10751|16|12", "without_genres": "18,27,53,80,10752", "vote_count.gte": 300}},
+        {"title": "Pro děti a rodinu", "type": "discover", "media": "movie", "query": {"with_genres": 10751, "vote_count.gte": 1000}},
+        {"title": "České letní klasiky", "type": "titles", "titles": [{"media": "movie", "id": 36994}, {"media": "movie", "id": 36993}, {"media": "movie", "id": 139085}, {"media": "movie", "id": 75026}, {"media": "movie", "id": 46632}, {"media": "movie", "id": 67957}, {"media": "movie", "id": 36891}, {"media": "movie", "id": 246029}, {"media": "movie", "id": 31410}, {"media": "movie", "id": 58621}, {"media": "movie", "id": 132111}, {"media": "movie", "id": 74798}, {"media": "movie", "id": 159048}, {"media": "movie", "id": 66063}, {"media": "movie", "id": 20779}, {"media": "movie", "id": 74199}, {"media": "movie", "id": 347687}, {"media": "movie", "id": 509758}, {"media": "movie", "id": 247446}]},
+        {"title": "České seriály pro děti", "type": "titles", "titles": [{"media": "tv", "id": 54309}, {"media": "tv", "id": 17784}, {"media": "tv", "id": 43650}, {"media": "tv", "id": 5464}, {"media": "tv", "id": 17105}, {"media": "tv", "id": 37882}, {"media": "tv", "id": 37320}, {"media": "tv", "id": 35773}, {"media": "tv", "id": 52010}, {"media": "tv", "id": 60623}, {"media": "tv", "id": 87417}]}
+      ]
+    },
     {
       "title": "Halloween",
       "color": "FFFF9800",
       "home": true,
       "from": "10-01",
-      "to": "11-02",
+      "to": "11-01",
       "items": [
         {"title": "Halloweenské filmy", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
         {"title": "Pro celou rodinu", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "with_genres": "10751|16", "vote_count.gte": 30}},
@@ -19,7 +58,7 @@
       "title": "Vánoce",
       "color": "FFE53935",
       "home": true,
-      "from": "11-03",
+      "from": "11-02",
       "to": "01-06",
       "items": [
         {"title": "Vánoční filmy", "type": "discover", "media": "movie", "query": {"with_keywords": "207317|1991", "vote_count.gte": 30}},

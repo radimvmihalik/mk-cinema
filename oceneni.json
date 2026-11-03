@@ -1,0 +1,88 @@
+{
+ "_napoveda": "Generuje tools/make_awards.py (GitHub Actions každý den), ručně neupravovat. Ji.hlava a jiné festivaly bez strojově čitelného zdroje se doplňují do oceneni-rucne.json.",
+ "picks": [
+  {
+   "key": "jihlava-2026-po",
+   "title": "Ji.hlava 2026 – vítězové",
+   "color": "FFBA68C8",
+   "home": true,
+   "from": "2026-11-02",
+   "to": "2026-11-08",
+   "type": "titles",
+   "titles": [
+    {
+     "label": "Opus Bonum",
+     "search": "Mohabat",
+     "year": 2026,
+     "title": "Mohabat"
+    },
+    {
+     "label": "Český dokument",
+     "search": "Zářit",
+     "year": 2026,
+     "title": "Zářit"
+    },
+    {
+     "label": "Český dokument",
+     "search": "Land of Fire",
+     "year": 2026,
+     "title": "Land of Fire"
+    },
+    {
+     "label": "První světla",
+     "search": "Po zkoušce",
+     "year": 2026,
+     "title": "Po zkoušce"
+    },
+    {
+     "label": "Svědectví",
+     "search": "Barbara navždy",
+     "year": 2026,
+     "title": "Barbara navždy"
+    },
+    {
+     "label": "Fascinace",
+     "search": "Nepolapitelný dnešek",
+     "year": 2026,
+     "title": "Nepolapitelný dnešek"
+    },
+    {
+     "label": "Exprmntl.cz",
+     "search": "Na vrcholcích všech bukových hor",
+     "year": 2026,
+     "title": "Na vrcholcích všech bukových hor"
+    },
+    {
+     "label": "Střední a východní Evropa",
+     "search": "Posvátné písně",
+     "year": 2026,
+     "title": "Posvátné písně"
+    },
+    {
+     "label": "Visegrádský region",
+     "search": "Expozice láskou",
+     "year": 2026,
+     "title": "Expozice láskou"
+    },
+    {
+     "label": "Střih",
+     "search": "Songs from Within",
+     "year": 2026,
+     "title": "Písně uvnitř nás"
+    },
+    {
+     "label": "Cena diváků",
+     "search": "Vteřina houby",
+     "year": 2026,
+     "title": "Vteřina houby"
+    },
+    {
+     "label": "Krátká radost",
+     "search": "Jak se vymanit",
+     "year": 2026,
+     "title": "Jak se vymanit"
+    }
+   ]
+  }
+ ]
+}

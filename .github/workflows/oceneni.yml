@@ -1,0 +1,52 @@
+# Rebuilds oceneni.json (Oscars and film festivals for MK Cinema's Výběry) every day.
+name: Ocenění (Oscary a festivaly)
+
+on:
+  schedule:
+    - cron: "20 5 * * *"  # every day, 05:20 UTC
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/oceneni.yml"
+      - "tools/make_awards.py"
+      - "oceneni-rucne.json"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  awards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sestavit oceneni.json
+        run: python tools/make_awards.py --reminders reminders.txt
+      - name: Uložit do repozitáře
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add oceneni.json
+          if git diff --cached --quiet; then
+            echo "Ocenění se nezměnila."
+          else
+            git commit -m "Ocenění: aktualizace $(date +%Y-%m-%d)"
+            git pull --rebase
+            git push
+          fi
+      - name: Připomenout ruční doplnění (issue)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -s reminders.txt ] || exit 0
+          while IFS= read -r title; do
+            if gh issue list --state all --limit 200 --json title --jq '.[].title' | grep -Fxq "$title"; then
+              echo "Issue už existuje: $title"
+            else
+              gh issue create --title "$title" --body "Tenhle festival nemá strojově čitelný zdroj. Doplň do oceneni-rucne.json datum posledního dne, hlavní soutěž a po skončení vítěze (stačí napsat Claudovi: doplň Ji.hlavu). Soutěž se v MK Cinema ukáže 30 dní před koncem festivalu, vítězové týden po něm."
+            fi
+          done < reminders.txt
