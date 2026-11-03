@@ -1,10 +1,26 @@
 {
-  "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu.",
+  "_napoveda": "Výběry pro doplněk MK Cinema. Změny se v Kodi objeví do půl hodiny. Typy: discover (media + query pro TMDB discover), person (id osoby z TMDB), titles (seznam {media, id}), episodes (soubor s díly). Položka s items je složka. home: true = ukázat i v hlavním menu. from/to = kdy se položka ukazuje (včetně obou dnů): MM-DD každý rok, může jít i přes Nový rok (11-03 až 01-06), nebo RRRR-MM-DD jen jednou. Bez from/to se ukazuje pořád.",
   "picks": [
+    {
+      "title": "Halloween",
+      "color": "FFFF9800",
+      "home": true,
+      "from": "10-01",
+      "to": "11-02",
+      "items": [
+        {"title": "Halloweenské filmy", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
+        {"title": "Pro celou rodinu", "type": "discover", "media": "movie", "query": {"with_keywords": 3335, "with_genres": "10751|16", "vote_count.gte": 30}},
+        {"title": "Horory", "type": "discover", "media": "movie", "query": {"with_genres": 27, "vote_count.gte": 1000}},
+        {"title": "Strašidelné seriály", "type": "discover", "media": "tv", "query": {"with_keywords": 3335, "vote_count.gte": 30}},
+        {"title": "Halloweenské díly seriálů", "type": "episodes", "file": "epizody/halloween.json"}
+      ]
+    },
     {
       "title": "Vánoce",
       "color": "FFE53935",
       "home": true,
+      "from": "11-03",
+      "to": "01-06",
       "items": [
         {"title": "Vánoční filmy", "type": "discover", "media": "movie", "query": {"with_keywords": "207317|1991", "vote_count.gte": 30}},
         {"title": "Vánoční klasika", "type": "titles", "titles": [{"media": "movie", "id": 771}, {"media": "movie", "id": 772}, {"media": "movie", "id": 15387}, {"media": "movie", "id": 508}, {"media": "movie", "id": 5825}, {"media": "movie", "id": 8871}, {"media": "movie", "id": 5255}, {"media": "movie", "id": 10719}, {"media": "movie", "id": 1585}, {"media": "movie", "id": 1581}, {"media": "movie", "id": 562}, {"media": "movie", "id": 927}, {"media": "movie", "id": 508965}, {"media": "movie", "id": 9479}, {"media": "movie", "id": 11395}, {"media": "movie", "id": 9279}, {"media": "movie", "id": 51052}, {"media": "movie", "id": 9647}, {"media": "movie", "id": 10510}, {"media": "movie", "id": 1621}, {"media": "movie", "id": 17979}, {"media": "movie", "id": 10437}, {"media": "movie", "id": 527435}, {"media": "movie", "id": 549053}, {"media": "movie", "id": 12193}, {"media": "movie", "id": 10147}, {"media": "movie", "id": 36892}]},

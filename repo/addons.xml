@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <!-- The id stays plugin.video.wskino so existing installs update in place and keep their login and history -->
-<addon id="plugin.video.wskino" name="MK Cinema" version="1.8.0" provider-name="Midar Kilahim">
+<addon id="plugin.video.wskino" name="MK Cinema" version="1.8.1" provider-name="Midar Kilahim">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.22.0"/>
@@ -12,7 +12,7 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="cs_CZ">Midar Kilahim Cinema – knihovna filmů a seriálů přehrávaná přes tvůj účet Webshare.cz</summary>
         <summary lang="en_GB">Midar Kilahim Cinema – movie and TV library played through your Webshare.cz account</summary>
-        <description lang="cs_CZ">Procházej filmy a seriály (populární, nově online, žánry, české filmy, Halloween, hledání) s plakáty a popisy z TMDB. Po výběru filmu nebo dílu doplněk najde odpovídající soubory na Webshare, seřadí je podle jazyka a kvality a přehraje je přes tvůj vlastní účet. Každý se přihlašuje svým účtem Webshare.</description>
+        <description lang="cs_CZ">Procházej filmy a seriály (populární, nově online, žánry, české filmy, sezónní výběry, hledání) s plakáty a popisy z TMDB. Po výběru filmu nebo dílu doplněk najde odpovídající soubory na Webshare, seřadí je podle jazyka a kvality a přehraje je přes tvůj vlastní účet. Každý se přihlašuje svým účtem Webshare.</description>
         <description lang="en_GB">Browse movies and TV shows with artwork and plots from TMDB. Picking a title finds matching files on Webshare.cz, ranks them by language and quality and plays them through your own account.</description>
         <platform>all</platform>
         <license>MIT</license>
