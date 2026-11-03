@@ -4,7 +4,7 @@ Repozitář doplňku **MK Cinema** (Midar Kilahim Cinema) pro Kodi.
 
 - `repo/` – Kodi repozitář. Doplněk *MK Cinema repozitář* odsud stahuje nové verze.
 - `vybery.json` – obsah sekce **Výběry** (Halloween, Vánoce, In memoriam…). Změny se v Kodi projeví do půl hodiny, bez nové verze doplňku.
-- `epizody/` – seznamy dílů seriálů pro Výběry (např. halloweenské díly).
+- `epizody/` – seznamy dílů seriálů pro Výběry (halloweenské a vánoční díly, vytváří je `tools/make_episodes.py` v projektu).
 
 ## Typy položek ve `vybery.json`
 
