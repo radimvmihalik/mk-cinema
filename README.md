@@ -34,3 +34,7 @@ Volitelně: `color` (barva názvu, např. `FFFF9800`), `home: true` (ukázat i v
 - Oscary se berou z Wikidat, Berlinale, Cannes a Karlovy Vary z anglické Wikipedie (stránka ročníku: data, hlavní soutěž, ceny).
 - Ji.hlava nemá strojově čitelný zdroj. Její ročník se doplňuje ručně do `oceneni-rucne.json` a skript na to od 20. září založí issue.
 - Když zdroj zrovna nefunguje, zůstanou výběry z předchozího dne. Ruční spuštění: Actions → Ocenění → Run workflow, místně `python3 tools/make_awards.py --today 2027-03-01 --out /tmp/test.json`.
+
+## Trakt
+
+MK Cinema uses Trakt but is not endorsed or certified by Trakt.
