@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <!-- The id stays plugin.video.wskino so existing installs update in place and keep their login and history -->
-<addon id="plugin.video.wskino" name="MK Cinema" version="1.11.0" provider-name="Midar Kilahim">
+<addon id="plugin.video.wskino" name="MK Cinema" version="1.12.0" provider-name="Midar Kilahim">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.22.0"/>
@@ -15,7 +15,11 @@
         <summary lang="en_GB">Midar Kilahim Cinema – movie and TV library played through your Webshare.cz account</summary>
         <description lang="cs_CZ">Procházej filmy a seriály (populární, nově online, žánry, české filmy, sezónní výběry, hledání) s plakáty a popisy z TMDB. Po výběru filmu nebo dílu doplněk najde odpovídající soubory na Webshare, seřadí je podle jazyka a kvality a přehraje je přes tvůj vlastní účet. Každý se přihlašuje svým účtem Webshare.</description>
         <description lang="en_GB">Browse movies and TV shows with artwork and plots from TMDB. Picking a title finds matching files on Webshare.cz, ranks them by language and quality and plays them through your own account.</description>
-        <news>v1.11.0 (21. 11. 2026)
+        <news>v1.12.0 (25. 11. 2026)
+- Když skončí předplatné Webshare, MK Cinema to při přehrávání oznámí místo obecné chyby přehrávání.
+- Pět dní před koncem předplatného Webshare se při otevření MK Cinema jednou denně ukáže, kolik dní zbývá.
+
+v1.11.0 (21. 11. 2026)
 - Ve Filmech a Seriálech přibyla sekce Naposledy sledované, takže rozkoukaný seriál nebo film najdeš bez hledání.
 - V přehledu řad seriálu je nahoře Pokračovat s dalším dílem po tom, který jsi pustil naposledy.
 - Přesnější výběr zdrojů u seriálů: nenabízejí se díly jiných seriálů s podobným názvem ani stejnojmenných seriálů z jiných let.
@@ -25,14 +29,7 @@ v1.10.0 (14. 11. 2026)
 - Propojení s Traktem: v nové sekci Trakt připojíš svůj účet kódem a najdeš tam Pokračovat v seriálech, Rozkoukané, watchlist filmů a seriálů, historii, vlastní seznamy a doporučení.
 - Zhlédnuté filmy a díly se samy zapisují na Trakt. Rozkoukané lze dokoukat od místa, kde přehrávání skončilo.
 - Zhlédnuté filmy a díly jsou v seznamech označené. Z kontextové nabídky je přidáš do watchlistu nebo označíš jako zhlédnuté.
-- Po aktualizaci se při prvním otevření ukáže přehled novinek.
-
-v1.9.0 (3. 11. 2026)
-- Nové sezónní výběry Valentýn (15. 1.–14. 2.), Velikonoce (měsíc před Velikonocemi až do Velikonočního pondělí) a Léto a prázdniny (1. 6.–31. 8.).
-- Nové výběry Oscary, Berlinale, Cannes, Karlovy Vary a Ji.hlava: měsíc před vyhlášením nominace nebo soutěžní filmy, týden po vyhlášení vítězové ve všech kategoriích.
-- Právě teď jsou k dispozici vítězové festivalu Ji.hlava 2026.
-- Halloween je nově k dispozici do 1. listopadu, Vánoce od 2. listopadu.
-- Film, který ve výběru ještě nemá podrobnosti, lze rovnou vyhledat na Webshare.</news>
+- Po aktualizaci se při prvním otevření ukáže přehled novinek.</news>
         <platform>all</platform>
         <license>MIT</license>
         <assets>
